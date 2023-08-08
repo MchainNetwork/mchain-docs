@@ -82,10 +82,7 @@ function HomepageHeader() {
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout
-      title={`${siteConfig.title}`}
-      description="Explore Mchain Docs - your comprehensive guide through the intricate seas of cryptography with Mchain. Explore tutorials, best practices, and insights to embark on a secure cryptographic journey."
-    >
+    <Layout description="Explore Mchain Docs - your comprehensive guide through the intricate seas of cryptography with Mchain. Explore tutorials, best practices, and insights to embark on a secure cryptographic journey.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

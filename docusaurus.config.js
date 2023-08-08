@@ -74,6 +74,11 @@ const config = {
           },
           { to: '/logbook', label: 'Logbook', position: 'left' },
           {
+            href: 'https://www.mchain.network',
+            label: 'Mchain',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/MchainNetwork',
             label: 'GitHub',
             position: 'right',
@@ -87,13 +92,30 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Documentation',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Logbook',
+                to: '/logbook',
               },
             ],
           },
           {
             title: 'Community',
+            items: [
+              {
+                label: 'Telegram Group',
+                href: 'https://t.me/MchainNetwork',
+              },
+              {
+                label: 'Telegram Channel',
+                href: 'https://t.me/MchainCompass',
+              },
+            ],
+          },
+          {
+            title: 'News',
             items: [
               {
                 label: 'Medium',
@@ -109,8 +131,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Logbook',
-                to: '/logbook',
+                label: 'Mchain',
+                href: 'https://www.mchain.network',
               },
               {
                 label: 'GitHub',
