@@ -39,15 +39,13 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/MchainNetwork/mchain-docs/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/MchainNetwork/mchain-docs/tree/master/',
         },
         blog: {
           showReadingTime: true,
           routeBasePath: 'logbook',
           path: 'logbook',
-          editUrl:
-            'https://github.com/MchainNetwork/mchain-docs/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/MchainNetwork/mchain-docs/tree/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
