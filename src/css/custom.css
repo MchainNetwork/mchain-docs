@@ -52,3 +52,7 @@
 .footer__copyright {
   font-size: 13px;
 }
+
+.footer--dark {
+  --ifm-footer-background-color: #111012;
+}
