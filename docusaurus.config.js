@@ -141,7 +141,12 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Mchain Network. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Mchain Network`,
+      },
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
       },
       prism: {
         theme: lightCodeTheme,
