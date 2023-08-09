@@ -15,6 +15,23 @@ The MAR token will follow a percentage-based fee model. Every transaction made w
 - **Burn**: 2.5% will be automatically burned, permanently removing it from circulation.
 - **Redistribution**: The remaining 2.5% will be redistributed among all MAR BEP20 token holders.
 
+```mermaid
+graph TD
+    Start[Is Blockchain Launched?]
+
+    Start -->|No| A[Transaction with MAR to/from the Pool]
+    A --> IsToPool[To/From Liquidity Pool?]
+    
+    Start -->|Yes| E[0% Fee for all transactions]
+    
+    IsToPool -->|Yes| F[10% Total Fee]
+    IsToPool -->|No| G[0% Fee]
+    
+    F --> F1[5% Liquidity Pool]
+    F --> F2[2.5% Burned]
+    F --> F3[2.5% Redistributed to MAR BEP20 Holders]
+```
+
 This model ensures that every MAR token holder benefits from every transaction, thereby promoting long-term holding and discouraging rapid selling.
 
 ## Total Supply & Token Decimals
