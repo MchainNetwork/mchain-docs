@@ -5,7 +5,7 @@ title: Add MAR to MetaMask
 
 # Add MAR BEP20 to MetaMask
 
-MetaMask is a popular Ethereum wallet that allows users to manage their ETH and ERC-20 tokens. But did you know it can also be configured to work with the Binance Smart Chain and its BEP20 tokens? This guide'll walk you through adding the MAR BEP20 token to your MetaMask wallet.
+This guide'll walk you through adding the MAR BEP20 token to your MetaMask wallet.
 
 ### Prerequisites
 
