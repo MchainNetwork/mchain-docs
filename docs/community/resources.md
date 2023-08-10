@@ -13,13 +13,14 @@ Welcome to the Mchain Resources page! Here, you'll find a collection of all offi
 - **Documentation:** [https://docs.mchain.network](https://docs.mchain.network)
 
 ## Social Media and Community
-- **Twitter:** [Follow us on Twitter](https://twitter.com/MchainNetwork)
-- **Medium:** [Read our latest updates on Medium](https://medium.com/@MchainNetwork)
-- **Telegram Group:** [Join our Telegram Group](https://t.me/MchainNetwork)
-- **Telegram Channel:** [Follow us on Telegram](https://t.me/MchainCompass)
+- **Twitter:** [https://twitter.com/MchainNetwork](https://twitter.com/MchainNetwork)
+- **Medium:** [https://medium.com/@MchainNetwork](https://medium.com/@MchainNetwork)
+- **Telegram Group:** [https://t.me/MchainNetwork](https://t.me/MchainNetwork)
+- **Telegram Channel:** [https://t.me/MchainCompass](https://t.me/MchainCompass)
+- **Discord:** [https://discord.gg/Qn5qq86k3U](https://discord.gg/Qn5qq86k3U)
 
 ## Development and Technical
-- **GitHub:** [Visit our GitHub Repository](https://github.com/MchainNetwork)
+- **GitHub:** [https://github.com/MchainNetwork](https://github.com/MchainNetwork)
 
 Remember, always ensure you're interacting with official Mchain platforms. Avoid scams and unofficial channels.
 

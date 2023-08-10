@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Check Your Balance
+title: Check Your v1 Balance
 ---
 
 # How to Check the Balance of Your Wallet.dat for Migration to Mchain v2
