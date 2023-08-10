@@ -7,7 +7,7 @@ title: Introduction
 
 *** Welcome to the official Mchain documentation section! ***
 
-<img src="/img/xplorer-map.svg" alt="Xplorer" width="300" style={{float: 'right', margin: '10px'}} />
+<img src="/img/xplorer-map.svg" alt="Xplorer" className="intro-xplorer" />
 
 At this initial stage, we're excited to offer a comprehensive tutorial on our MAR BEP20 token's operation. This guide will give you a clear understanding of its functionality, features, and benefits.
 

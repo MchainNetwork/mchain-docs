@@ -68,3 +68,15 @@
 .docusaurus-mermaid-container {
   margin: 10px 0 20px;
 }
+
+.intro-xplorer {
+  float: right;
+  margin: 10px;
+  width: 300px;
+}
+
+@media (max-width:600px)  { 
+  .intro-xplorer {
+    float: unset;
+  }
+}
