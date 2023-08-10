@@ -46,7 +46,10 @@ const config = {
           editUrl: 'https://github.com/MchainNetwork/mchain-docs/tree/master/',
         },
         blog: {
-          showReadingTime: true,
+          blogTitle: 'Logbook',
+          blogDescription:
+            "The Mchain Logbook chronicles the updates, enhancements, and changes to our platform's documentation. It acts as a dynamic ledger, ensuring that both newcomers and long-time Mchain enthusiasts can track the evolution of our informational resources.",
+          showReadingTime: false,
           routeBasePath: 'logbook',
           path: 'logbook',
           editUrl: 'https://github.com/MchainNetwork/mchain-docs/tree/master/',
