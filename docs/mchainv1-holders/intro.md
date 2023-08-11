@@ -5,6 +5,13 @@ title: Introduction
 
 # Announcement: New Development of Mchain - Get Ready for the Future!
 
+:::info
+
+[How to Check the Balance of Your Wallet.dat for Migration to Mchain v2](/docs/mchainv1-holders/check-balance)
+
+:::
+
+
 We are excited to announce that Mchain is developing a new blockchain, Mchain v2, which will bring together the appropriate features further to drive the growth and potential of our platform. This new version will allow us to enhance the scalability, security, and efficiency of Mchain, preparing us to face the challenges and opportunities of the future.
 
 We want to ensure that all our users and holders of the MAR cryptocurrency are informed and have the opportunity to participate in this exciting transition. As a holder of the MAR cryptocurrency on the Mchain v1 blockchain, you can choose whether to migrate your coins to the new Mchain v2 blockchain or keep them on Mchain v1.
@@ -24,3 +31,9 @@ Thank you for being part of Mchain!
 The Mchain Team
 
 [Complete the form](https://forms.gle/9SWZLE8vkGPCrSZc8)
+
+
+
+
+
+
