@@ -165,6 +165,16 @@ const config = {
     }),
 
   themes: ['@docusaurus/theme-mermaid'],
+
+  plugins: [
+    [
+      require.resolve('@cmfcmf/docusaurus-search-local'),
+      {
+        indexBlog: false,
+        language: 'en',
+      },
+    ],
+  ],
 };
 
 module.exports = config;
