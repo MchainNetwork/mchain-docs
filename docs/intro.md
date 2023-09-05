@@ -9,7 +9,7 @@ title: Introduction
 
 <img src="/img/xplorer-map.svg" alt="Xplorer" className="intro-xplorer" />
 
-At this initial stage, we're excited to offer a comprehensive tutorial on our MAR BEP20 token's operation. This guide will give you a clear understanding of its functionality, features, and benefits.
+At this initial stage, we're excited to offer a comprehensive tutorial on our MAR ERC20 token's operation. This guide will give you a clear understanding of its functionality, features, and benefits.
 
 Soon, we'll expand our documentation to cover a broader range of topics. You can look forward to detailed guides and tutorials about the Mchain blockchain, including how to run a node, information on validators, and much more.
 

@@ -6,12 +6,9 @@ title: Glossary
 # Glossary
 
 Explore essential terms related to the Mchain Blockchain, aiding your understanding of the MAR platform.
-
+E
 ## Airdrops
 Free distribution of a cryptocurrency token or coin to a large number of wallet addresses.
-
-## BEP20
-A token standard on the Binance Smart Chain, enabling the creation of fungible tokens.
 
 ## Blockchain
 A digital ledger of transactions, duplicated across a network of computers.
@@ -58,6 +55,9 @@ To entrust tokens to a validator for staking purposes.
 ## Delegator
 A person who delegates their tokens to a validator to participate in the consensus protocol.
 
+## ERC20
+A token standard on the Ethereum blockchain, enabling the creation of fungible tokens.
+
 ## Full Node
 A server that hosts a complete copy of the blockchain data.
 
@@ -79,8 +79,8 @@ The primary public blockchain network of a platform.
 ## MAR
 The native cryptocurrency token of the Mchain platform.
 
-## MAR BEP20
-The BEP20 version of the MAR token on the Binance Smart Chain.
+## MAR ERC20
+The ERC20 version of the MAR token on the Ethereum blockchain.
 
 ## Mchain core
 The foundational code and protocols that power the Mchain blockchain.

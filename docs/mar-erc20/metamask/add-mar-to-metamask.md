@@ -3,29 +3,28 @@ sidebar_position: 2
 title: Add MAR to MetaMask
 ---
 
-# Add MAR BEP20 to MetaMask
+# Add MAR ERC20 to MetaMask
 
-This guide'll walk you through adding the MAR BEP20 token to your MetaMask wallet.
+This guide'll walk you through adding the MAR ERC20 token to your MetaMask wallet.
 
 ### Prerequisites
 
 - Ensure you have the MetaMask extension installed on your browser. If you need help, you can download it from the [official website](https://metamask.io/).
 - Have your MetaMask wallet set up with a secure password and backup seed phrase.
-- Ensure you have Binance Smart Chain (BSC) configured in your MetaMask. If not, refer to our guide on [how to add BSC to MetaMask](add-bsc-to-metamask).
-- Copy the correct MAR BEP20 contract address to your clipboard.
+- Copy the correct MAR ERC20 contract address to your clipboard.
 
-### MAR BEP20 Contract Addresses by Network
+### MAR ERC20 Contract Addresses by Network
 
 | Network     | Contract Address |
 |-------------|------------------|
-| BSC Mainnet | Pending...       |
-| BSC Testnet | Pending...       |
+| Ethereum Mainnet | Pending...       |
+| Ethereum Testnet | Pending...       |
 
-### Steps to Add MAR BEP20 to MetaMask
+### Steps to Add MAR ERC20 to MetaMask
 
 1. **Open MetaMask**: Click on the MetaMask extension icon on your browser to open it.
 
-2. **Select a Network**: MetaMask is configured for the Ethereum Mainnet by default. To add a BEP20 token like MAR, you must be on the Binance Smart Chain. If you still need to add BSC to MetaMask, check out our guide on [how to add BSC to MetaMask](add-bsc-to-metamask).
+2. **Select a Network**: MetaMask is configured for the Ethereum Mainnet by default.
 
 3. **Add Token**: 
     - Click on the `Menu` (often represented by three horizontal lines on the top left).
@@ -40,7 +39,7 @@ This guide'll walk you through adding the MAR BEP20 token to your MetaMask walle
     - Click the `Next` button to see a summary of the MAR token details.
     - Confirm the details are correct and click `Add Tokens`.
 
-6. **View MAR in MetaMask**: After adding, MAR should now be visible in your token list within MetaMask. The balance should also reflect here if you have any MAR BEP20 tokens.
+6. **View MAR in MetaMask**: After adding, MAR should now be visible in your token list within MetaMask. The balance should also reflect here if you have any MAR ERC20 tokens.
 
-You've successfully added the MAR BEP20 token to your MetaMask wallet! Now, you can easily receive, store, and send MAR tokens using MetaMask.
+You've successfully added the MAR ERC20 token to your MetaMask wallet! Now, you can easily receive, store, and send MAR tokens using MetaMask.
 
