@@ -9,15 +9,10 @@ The MAR token will operate as a ERC20 token during its early phase on Ethereum b
 
 ## Total Supply & Token Decimals
 
-The total amount of MAR ERC20 tokens created is **105,248,200**.
+The total amount of MAR ERC20 tokens created is **110,000,000**.
 
-The MAR ERC20 token has a precision of **6 decimals**.
-
-## Transaction Limits
-
-- The maximum transaction amount allowed in a transfer is **1%** of the total supply.
-- The highest allowed balance in a single wallet is **5%** of the total supply.
+The MAR ERC20 token has a precision of **18 decimals**.
 
 ## Burn Address
 
-The designated burn address for MAR ERC20 is `0x000000000000000000000000000000000000dEaD`.
+The designated burn address for MAR ERC20 is `0x0000000000000000000000000000000000000000`.
