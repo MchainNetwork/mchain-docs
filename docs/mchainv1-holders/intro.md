@@ -18,7 +18,7 @@ We want to ensure that all our users and holders of the MAR cryptocurrency are i
 
 Suppose you are interested in participating in this migration and taking advantage of the benefits of the new blockchain. In that case, we invite you to complete the *** [following form](https://forms.gle/9SWZLE8vkGPCrSZc8) *** to join the list of individuals interested in the coin swap. This list will help us communicate with you and provide more information about the migration process.
 
-In the first phase of the migration, you will receive the MAR token on the Binance Smart Chain or Ethereum blockchain, allowing you to hold your assets while Mchain v2 is being developed securely. In phase 2, you can transfer these tokens to the new Mchainv2 blockchain and participate in activities such as staking or becoming a block validator.
+In the first phase of the migration, you will receive the MAR token on the Ethereum blockchain, allowing you to hold your assets while Mchain v2 is being developed securely. In phase 2, you can transfer these tokens to the new Mchainv2 blockchain and participate in activities such as staking or becoming a block validator.
 
 We are working diligently to build a solid foundation for Mchain v2 and developing a comprehensive whitepaper detailing the new technology and roadmap milestones. Additionally, we are creating an exclusive community group for development, where MAR v1 holders will be among the first to access privileged information about this exciting upgrade.
 
