@@ -17,8 +17,7 @@ This guide'll walk you through adding the MAR ERC20 token to your MetaMask walle
 
 | Network     | Contract Address |
 |-------------|------------------|
-| Ethereum Mainnet | Pending...       |
-| Ethereum Testnet | Pending...       |
+| Ethereum Mainnet | 0x4343D80eF5808490a079AA0907FFdC9373C7a4Dd |
 
 ### Steps to Add MAR ERC20 to MetaMask
 
@@ -33,7 +32,7 @@ This guide'll walk you through adding the MAR ERC20 token to your MetaMask walle
 4. **Custom Token**: 
     - Navigate to the `Custom Token` tab.
     - You'll need to enter the MAR token contract address (make sure to get this from the official Mchain website or a trusted source to avoid scams). 
-    - Once you've entered the contract address, the other fields, like Token Symbol and Decimals of Precision, should autofill. If not, enter `MAR` for the Token Symbol and `6` for Decimals.
+    - Once you've entered the contract address, the other fields, like Token Symbol and Decimals of Precision, should autofill. If not, enter `MAR` for the Token Symbol and `18` for Decimals.
 
 5. **Add and Confirm**: 
     - Click the `Next` button to see a summary of the MAR token details.
