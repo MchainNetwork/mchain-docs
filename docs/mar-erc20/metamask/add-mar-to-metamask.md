@@ -1,16 +1,16 @@
 ---
 sidebar_position: 2
-title: Add MAR to MetaMask
+title: Add MAR to Metamask
 ---
 
-# Add MAR ERC20 to MetaMask
+# Add MAR ERC20 to Metamask
 
-This guide'll walk you through adding the MAR ERC20 token to your MetaMask wallet.
+This guide'll walk you through adding the MAR ERC20 token to your Metamask wallet.
 
 ### Prerequisites
 
-- Ensure you have the MetaMask extension installed on your browser. If you need help, you can download it from the [official website](https://metamask.io/).
-- Have your MetaMask wallet set up with a secure password and backup seed phrase.
+- Ensure you have the Metamask extension installed on your browser. If you need help, you can download it from the [official website](https://metamask.io/).
+- Have your Metamask wallet set up with a secure password and backup seed phrase.
 - Copy the correct MAR ERC20 contract address to your clipboard.
 
 ### MAR ERC20 Contract Addresses by Network
@@ -20,11 +20,14 @@ This guide'll walk you through adding the MAR ERC20 token to your MetaMask walle
 | Ethereum Mainnet | `0x4343D80eF5808490a079AA0907FFdC9373C7a4Dd` |
 | Polygon zkEVM | `0x88940E23Eaf2e7077d86a89fC0d3a69fcDF9d4C6` |
 
-### Steps to Add MAR ERC20 to MetaMask
+### Steps to Add MAR ERC20 to Metamask
 
-1. **Open MetaMask**: Click on the MetaMask extension icon on your browser to open it.
+1. **Open Metamask**: Click on the Metamask extension icon on your browser to open it.
 
-2. **Select a Network**: MetaMask is configured for the Ethereum Mainnet by default.
+2. **Select a Network**: Metamask is configured for the Ethereum Mainnet by default. If you want to add MAR on the Polygon zkEVM network, you can easily add this network to Metamask by using Chainlist:
+
+- Click on the following link [https://chainlist.org/chain/1101](https://chainlist.org/chain/1101).
+- Click the button "Add to Metamask" and follow the instructions to add the Polygon zkEVM network to your Metamask.
 
 3. **Add Token**: 
     - Click on the `Menu` (often represented by three horizontal lines on the top left).
@@ -39,7 +42,7 @@ This guide'll walk you through adding the MAR ERC20 token to your MetaMask walle
     - Click the `Next` button to see a summary of the MAR token details.
     - Confirm the details are correct and click `Add Tokens`.
 
-6. **View MAR in MetaMask**: After adding, MAR should now be visible in your token list within MetaMask. The balance should also reflect here if you have any MAR ERC20 tokens.
+6. **View MAR in Metamask**: After adding, MAR should now be visible in your token list within Metamask. The balance should also reflect here if you have any MAR ERC20 tokens.
 
-You've successfully added the MAR ERC20 token to your MetaMask wallet! Now, you can easily receive, store, and send MAR tokens using MetaMask.
+You've successfully added the MAR ERC20 token to your Metamask wallet! Now, you can easily receive, store, and send MAR tokens using Metamask.
 
