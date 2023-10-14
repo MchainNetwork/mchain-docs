@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 title: Add MAR to Metamask
 ---
 
@@ -17,10 +17,7 @@ This guide'll walk you through adding the MAR ERC20 token to your Metamask walle
 
 1. **Open Metamask**: Click on the Metamask extension icon on your browser to open it.
 
-2. **Select a Network**: Metamask is configured for the Ethereum Mainnet by default. If you want to add MAR on the Polygon PoS network, you can easily add this network to Metamask by using Chainlist:
-
-- Click on the following link [https://chainlist.org/chain/137](https://chainlist.org/chain/137).
-- Click the button "Add to Metamask" and follow the instructions to add the Polygon PoS network to your Metamask.
+2. **Select a Network**: Metamask is configured for the Ethereum Mainnet by default. If you want to add MAR on the Polygon PoS network, you can easily add this network to Metamask by following [this guide](/docs/mar-erc20/metamask/add-polygon-to-metamask).
 
 3. **Add Token**: 
     - Click on the `Menu` (often represented by three horizontal lines on the top left).
