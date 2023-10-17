@@ -5,7 +5,7 @@ tags: [erc20]
 hide_table_of_contents: false
 ---
 
-Hey MARine! 👋 Looking for the MAR ERC20 contract addresses? We’ve got you covered! In the Logbook & MChain Docs, we’ve compiled all the addresses you need, neatly organized by network for your convenience. Get instant access to the information!
+Hey MARine! 👋 Looking for the MAR ERC20 contract addresses? We’ve got you covered! In the Logbook & Mchain Docs, we’ve compiled all the addresses you need, neatly organized by network for your convenience. Get instant access to the information!
 
 ### [MAR ERC20 Contract Addresses by Network](https://docs.mchain.network/docs/mar-erc20/specifications)
 
