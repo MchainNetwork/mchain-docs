@@ -13,7 +13,7 @@ This guide is essential for any Mchain v1 user looking to claim their MAR ERC20 
 
 Take advantage of this opportunity to get your MAR ERC20 tokens. Head to Mchain Docs now and make sure you're fully prepared.
 
-Read the complete guide here: [Sign Your Ethereum Address](https://docs.mchain.network/docs/mchainv1-holders/sign-eth-address).
+Read the complete guide here: [Sign Your Ethereum Address](/docs/learn/mchainv1-holders/sign-eth-address).
 
 Best,
 

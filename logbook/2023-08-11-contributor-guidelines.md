@@ -1,4 +1,5 @@
 ---
+slug: contributor-guidelines
 title: "New on Mchain Docs: Contributor Guidelines"
 tags: [docs]
 ---
@@ -12,6 +13,6 @@ Why should you check it out?
 - You'll learn about best practices and recommended procedures for engaging with and enhancing our knowledge base.
 - It's a fantastic opportunity to collaborate with the Mchain community actively.
 
-Take the first step towards contributing: [Contributor Guidelines](/docs/community/contributor-guidelines).
+Take the first step towards contributing: [Contributor Guidelines](/docs/learn/community/contributor-guidelines).
 
 We look forward to your contributions!

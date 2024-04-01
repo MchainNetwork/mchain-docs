@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import Translate, { translate } from '@docusaurus/Translate'; // Import Translate
 
 import styles from './index.module.css';
 
@@ -64,14 +65,20 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <canvas className="waves"></canvas>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <h1 className="hero__title">
+          <Translate>Mchain Docs</Translate>
+        </h1>
+        <p className="hero__subtitle">
+          <Translate>
+            Your Guide Through the Cryptographic Odyssey on the High Seas
+          </Translate>
+        </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro"
+            to="./docs/learn/"
           >
-            Embark on the Odyssey
+            <Translate>Embark on the Odyssey</Translate>
           </Link>
         </div>
       </div>
@@ -80,9 +87,14 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout description="Explore Mchain Docs - your comprehensive guide through the intricate seas of cryptography with Mchain. Explore tutorials, best practices, and insights to embark on a secure cryptographic journey.">
+    <Layout
+      description={translate({
+        message:
+          'Explore Mchain Docs - your comprehensive guide through the intricate seas of cryptography with Mchain. Explore tutorials, best practices, and insights to embark on a secure cryptographic journey.',
+        description: 'Home page description',
+      })}
+    >
       <HomepageHeader />
       <main>
         <HomepageFeatures />

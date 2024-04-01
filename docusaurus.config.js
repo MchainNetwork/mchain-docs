@@ -33,7 +33,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'es', 'pt-BR'],
   },
 
   presets: [
@@ -54,10 +54,25 @@ const config = {
           path: 'logbook',
           editUrl: 'https://github.com/MchainNetwork/mchain-docs/tree/master/',
         },
+
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
+    ],
+    [
+      'redocusaurus',
+      {
+        specs: [
+          {
+            spec: 'openapi/openapi.yaml',
+            route: '/api/',
+          },
+        ],
+        theme: {
+          primaryColor: '#1890ff',
+        },
+      },
     ],
   ],
 
@@ -74,20 +89,41 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
+            to: '/docs/learn',
             label: 'Learn',
+            position: 'left',
+            sidebarId: 'learnSidebar',
+          },
+          {
+            to: '/docs/develop',
+            label: 'Develop',
+            position: 'left',
+            sidebarId: 'developSidebar',
+          },
+          {
+            to: '/docs/validate',
+            label: 'Node & Validators',
+            position: 'left',
+            sidebarId: 'validateSidebar',
           },
           { to: '/logbook', label: 'Logbook', position: 'left' },
           {
-            href: 'https://www.mchain.network',
-            label: 'Mchain',
+            href: 'https://testnet.hub.mchain.network',
+            label: 'Mchain Hub',
+            position: 'right',
+          },
+          {
+            href: 'https://testnet.api.mchain.network/',
+            label: 'API',
             position: 'right',
           },
           {
             href: 'https://github.com/MchainNetwork',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
         ],
@@ -100,7 +136,7 @@ const config = {
             items: [
               {
                 label: 'Documentation',
-                to: '/docs/intro',
+                to: '/docs/learn/',
               },
               {
                 label: 'Logbook',

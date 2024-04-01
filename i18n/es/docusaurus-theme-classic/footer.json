@@ -1,0 +1,54 @@
+{
+  "link.title.Explore": {
+    "message": "Explorar",
+    "description": "The title of the footer links column with title=Explore in the footer"
+  },
+  "link.title.Community": {
+    "message": "Comunidad",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.News": {
+    "message": "Noticias",
+    "description": "The title of the footer links column with title=News in the footer"
+  },
+  "link.title.More": {
+    "message": "Más",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Documentation": {
+    "message": "Documentación",
+    "description": "The label of footer link with label=Documentation linking to /docs/learn/"
+  },
+  "link.item.label.Logbook": {
+    "message": "Bitácora",
+    "description": "The label of footer link with label=Logbook linking to /logbook"
+  },
+  "link.item.label.Telegram Group": {
+    "message": "Grupo de Telegram",
+    "description": "The label of footer link with label=Telegram Group linking to https://t.me/MchainNetwork"
+  },
+  "link.item.label.Telegram Channel": {
+    "message": "Canal de Telegram",
+    "description": "The label of footer link with label=Telegram Channel linking to https://t.me/MchainCompass"
+  },
+  "link.item.label.Medium": {
+    "message": "Medium",
+    "description": "The label of footer link with label=Medium linking to https://medium.com/@MchainNetwork"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/MchainNetwork"
+  },
+  "link.item.label.Mchain": {
+    "message": "Mchain",
+    "description": "The label of footer link with label=Mchain linking to https://www.mchain.network"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/MchainNetwork"
+  },
+  "copyright": {
+    "message": "Copyright © 2023 Mchain Network",
+    "description": "The footer copyright"
+  }
+}

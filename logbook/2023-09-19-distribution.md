@@ -15,7 +15,7 @@ We encourage all community members to visit this section for an in-depth underst
 
 Check out the new page here: 
 
-[Distribution of MAR ERC20 Tokens](/docs/mchainv1-holders/distribution).
+[Distribution of MAR ERC20 Tokens](/docs/learn/mchainv1-holders/distribution).
 
 Best,
 

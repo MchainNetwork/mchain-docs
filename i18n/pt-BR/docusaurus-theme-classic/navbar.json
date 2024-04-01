@@ -1,0 +1,38 @@
+{
+  "title": {
+    "message": "Mchain Docs",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Mchain",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Learn": {
+    "message": "Aprender",
+    "description": "Navbar item with label Learn"
+  },
+  "item.label.Develop": {
+    "message": "Desenvolver",
+    "description": "Navbar item with label Develop"
+  },
+  "item.label.Node & Validators": {
+    "message": "Nó & Validadores",
+    "description": "Navbar item with label Node & Validators"
+  },
+  "item.label.Logbook": {
+    "message": "Diário de Bordo",
+    "description": "Navbar item with label Logbook"
+  },
+  "item.label.Mchain Hub": {
+    "message": "Mchain Hub",
+    "description": "Navbar item with label Mchain Hub"
+  },
+  "item.label.API": {
+    "message": "API",
+    "description": "Navbar item with label API"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
