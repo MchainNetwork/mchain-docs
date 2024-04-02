@@ -27,7 +27,7 @@ Nossa documentação é constantemente atualizada e ampliada para cobrir uma amp
 
 ## Precisa de Ajuda?
 
-Se você tem perguntas ou precisa de assistência, nossa equipe de suporte dedicada está a apenas um clique de distância. Junte-se ao nosso [canal do Telegram](https:/t.me/MchainNetwork) para obter ajuda imediata e interagir com outros membros da comunidade.
+Se você tem perguntas ou precisa de assistência, nossa equipe de suporte dedicada está a apenas um clique de distância. Junte-se ao nosso [canal do Telegram](https://t.me/Mchain_BR) para obter ajuda imediata e interagir com outros membros da comunidade.
 
 Estamos comprometidos em fornecer documentação completa, fácil de entender e útil. Sua contribuição é inestimável para nós, então, por favor, nos avise se há algo que você gostaria de ver adicionado ou melhorado.
 

@@ -27,7 +27,7 @@ Nuestra documentación se actualiza y amplía continuamente para cubrir una ampl
 
 ## ¿Necesitas ayuda?
 
-Si tienes preguntas o necesitas asistencia, nuestro equipo de soporte dedicado está a solo un clic de distancia. Únete a nuestro [canal de Telegram](https:/t.me/MchainNetwork) para obtener ayuda inmediata y participar con otros miembros de la comunidad.
+Si tienes preguntas o necesitas asistencia, nuestro equipo de soporte dedicado está a solo un clic de distancia. Únete a nuestro [canal de Telegram](https://t.me/Mchain_ES) para obtener ayuda inmediata y participar con otros miembros de la comunidad.
 
 Estamos comprometidos a proporcionarte documentación completa, fácil de entender y útil. Tu aportación es invaluable para nosotros, así que por favor haznos saber si hay algo que te gustaría ver añadido o mejorado.
 
