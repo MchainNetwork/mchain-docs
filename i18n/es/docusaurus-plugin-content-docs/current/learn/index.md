@@ -25,7 +25,7 @@ Nuestra documentación se actualiza y amplía continuamente para cubrir una ampl
 - **Gobernanza**: Ten voz en el futuro de Mchain participando en propuestas de gobernanza.
 - **Explora e innova**: Experimenta con Smart Tokens y las características únicas de Mchain para crear soluciones innovadoras.
 
-## ¿Necesitas Ayuda?
+## ¿Necesitas ayuda?
 
 Si tienes preguntas o necesitas asistencia, nuestro equipo de soporte dedicado está a solo un clic de distancia. Únete a nuestro [canal de Telegram](https:/t.me/MchainNetwork) para obtener ayuda inmediata y participar con otros miembros de la comunidad.
 
