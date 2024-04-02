@@ -27,7 +27,7 @@ Our documentation is continuously updated and expanded to cover a wide range of 
 
 ## Need Help?
 
-If you have questions or need assistance, our dedicated support team is just a click away. Join our [Telegram channel](https:/t.me/MchainNetwork) for immediate help and engage with fellow community members.
+If you have questions or need assistance, our dedicated support team is just a click away. Join our [Telegram channel](https://t.me/MchainNetwork) for immediate help and engage with fellow community members.
 
 We're committed to providing you with comprehensive, easy-to-understand, and useful documentation. Your feedback is invaluable to us, so please let us know if there's anything you'd like to see added or improved.
 
