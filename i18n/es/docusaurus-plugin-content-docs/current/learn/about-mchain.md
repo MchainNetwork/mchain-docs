@@ -15,13 +15,13 @@ Los Smart Tokens, una característica clave de Mchain, están diseñados para tr
 - **Servicio de Nombres Descentralizado (MNS)**: Mchain ofrece un servicio de nombres descentralizado, similar al DNS, pero para direcciones de blockchain, mejorando la experiencia del usuario con nombres legibles por humanos. Además, incluye un mercado donde los usuarios pueden comprar, vender y pujar por nombres.
 - **Gobernanza**: Mchain involucra a su comunidad en procesos clave de toma de decisiones a través de un sólido sistema de gobernanza, permitiendo a los interesados proponer, votar e implementar cambios.
 - **Interoperabilidad**: Con el soporte del protocolo IBC (Inter-Blockchain Communication), Mchain asegura una interacción fluida con otras redes blockchain.
-- **Integración con DEX (Exchange Descentralizado)**: Mchain integra una plataforma de DEX para el intercambio de Smart Tokens, permitiendo a los usuarios realizar transacciones de forma segura y descentralizada dentro de la red.
+- **Integración con DEX (Exchange descentralizado)**: Mchain integra una plataforma de DEX para el intercambio de Smart Tokens, permitiendo a los usuarios realizar transacciones de forma segura y descentralizada dentro de la red.
 
 ## Desarrollo y oportunidades
 
-- **Para Desarrolladores**: Mchain proporciona un terreno fértil para que los desarrolladores construyan aplicaciones descentralizadas (dApps). Con su diseño modular y soporte para varios lenguajes de programación, los desarrolladores pueden integrar fácilmente sus aplicaciones con Mchain.
-- **Para Validadores y Delegadores**: Mchain se basa en un mecanismo de consenso de Prueba de Participación, ofreciendo oportunidades para que validadores y delegadores contribuyan a la seguridad y gobernanza de la red mientras ganan recompensas.
-- **Crecimiento del Ecosistema**: Como una plataforma en constante evolución, Mchain está abierta a innovaciones y contribuciones de su comunidad, fomentando un ambiente colaborativo e inclusivo.
+- **Para desarrolladores**: Mchain proporciona un terreno fértil para que los desarrolladores construyan aplicaciones descentralizadas (dApps). Con su diseño modular y soporte para varios lenguajes de programación, los desarrolladores pueden integrar fácilmente sus aplicaciones con Mchain.
+- **Para Validadores y delegadores**: Mchain se basa en un mecanismo de consenso de Prueba de Participación, ofreciendo oportunidades para que validadores y delegadores contribuyan a la seguridad y gobernanza de la red mientras ganan recompensas.
+- **Crecimiento del ecosistema**: Como una plataforma en constante evolución, Mchain está abierta a innovaciones y contribuciones de su comunidad, fomentando un ambiente colaborativo e inclusivo.
 
 ## Testnet y Mainnet
 

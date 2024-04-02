@@ -10,11 +10,11 @@ MchainJS es un Kit de Desarrollo de Software (SDK) de JavaScript avanzado diseñ
 ## Características
 
 - **TypeScript**: Ofrece tipado fuerte y reducción de errores.
-- **Estructuras de Datos Simplificadas**: Proporciona interfaces fáciles de usar para datos de blockchain.
-- **Soporte Completo de Mensajes y Transacciones**: Facilita un amplio espectro de funciones de blockchain.
-- **Capacidades de Consulta Amplias**: Permite la extensa recuperación de datos de la blockchain.
-- **Compatibilidad Multiplataforma**: Asegura funcionalidad en Node.js, navegadores web y React Native.
-- **Integración con Módulos Mchain**: Se conecta sin problemas con características únicas de Mchain como el Servicio de Nombres Mchain y Smart Tokens.
+- **Estructuras de datos simplificadas**: Proporciona interfaces fáciles de usar para datos de blockchain.
+- **Soporte completo de mensajes y transacciones**: Facilita un amplio espectro de funciones de blockchain.
+- **Capacidades de consulta amplias**: Permite la extensa recuperación de datos de la blockchain.
+- **Compatibilidad multiplataforma**: Asegura funcionalidad en Node.js, navegadores web y React Native.
+- **Integración con módulos Mchain**: Se conecta sin problemas con características únicas de Mchain como el Servicio de Nombres Mchain y Smart Tokens.
 
 ## Instalación
 
@@ -139,7 +139,7 @@ sendTokens();
 ```
 
 
-### Consultando Saldo de la Cuenta
+### Consultando saldo de la cuenta
 
 Ejemplo: Obtener un saldo (consulta sdk cosmos)
 
@@ -205,6 +205,6 @@ registerDomain();
 
 ```
 
-### Más Ejemplos
+### Más ejemplos
 
 Para ejemplos más detallados y scripts, visita [github.com/mchainnetwork/scripts/js](https://github.com/mchainnetwork/scripts/js).

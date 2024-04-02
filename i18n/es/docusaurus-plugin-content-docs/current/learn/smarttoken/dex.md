@@ -17,8 +17,8 @@ Imagina a un usuario que gana puntos en una cafetería local. Con el DEX, podrí
 
 ## Cómo el DEX empodera a los usuarios
 
-- **Flexibilidad en Transacciones**: Los usuarios pueden intercambiar tokens según sus necesidades, ya sea por un servicio o simplemente comerciando con otros que podrían valorarlos más.
-- **Amplia Gama de Aplicaciones**: El DEX atenderá a varios casos de uso, desde pequeñas empresas hasta grandes organizaciones, ofreciendo un mecanismo de intercambio fluido.
+- **Flexibilidad en transacciones**: Los usuarios pueden intercambiar tokens según sus necesidades, ya sea por un servicio o simplemente comerciando con otros que podrían valorarlos más.
+- **Amplia gama de aplicaciones**: El DEX atenderá a varios casos de uso, desde pequeñas empresas hasta grandes organizaciones, ofreciendo un mecanismo de intercambio fluido.
 
 ## Conocimiento previo: Smart Tokens
 

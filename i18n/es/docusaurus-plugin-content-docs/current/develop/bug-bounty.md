@@ -11,9 +11,9 @@ En el ámbito de la blockchain y los activos digitales, la seguridad no es solo 
 
 Para participar en el Programa de Recompensas por Errores de Mchain, sigue estos pasos:
 
-1. **Identificar y Documentar:** Descubre vulnerabilidades de seguridad potenciales en los sistemas de Mchain y documéntalas detalladamente.
-2. **Envío de Informes:** Envía tus hallazgos por correo electrónico a security@mchain.network. Incluye detalles completos para ayudar a nuestro equipo a comprender y replicar el problema.
-3. **Espera la Respuesta:** Nuestro equipo de seguridad revisará tu envío y responderá con prontitud.
+1. **Identificar y documentar:** Descubre vulnerabilidades de seguridad potenciales en los sistemas de Mchain y documéntalas detalladamente.
+2. **Envío de informes:** Envía tus hallazgos por correo electrónico a security@mchain.network. Incluye detalles completos para ayudar a nuestro equipo a comprender y replicar el problema.
+3. **Espera la respuesta:** Nuestro equipo de seguridad revisará tu envío y responderá con prontitud.
 
 ## Alcance y enfoque
 

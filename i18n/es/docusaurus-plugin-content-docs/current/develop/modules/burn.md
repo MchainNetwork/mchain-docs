@@ -7,7 +7,7 @@ title: Burn
 
 El módulo Burn en Mchain permite la quema de tokens específicos, incluyendo MARK, BEER y cualquier Smart Token con la función de quema activada.
 
-## Comando de Quema
+## Comando de quema
 
 Permite a los usuarios quemar una cantidad especificada de una denominación dada.
 
@@ -24,7 +24,7 @@ Este comando:
 1. Quemará `1 MARK`.
 2. Ejecutará la transacción desde la cuenta vinculada a `mykey`.
 
-## Consultar Total Quemado por Denominación
+## Consultar total quemado por denominación
 
 Recupera el total de monedas quemadas para una denominación específica.
 
@@ -32,7 +32,7 @@ Recupera el total de monedas quemadas para una denominación específica.
 mchaind q burn total-burned-by-denom [denom]
 ```
 
-## Consultar Dirección de Burn
+## Consultar dirección de Burn
 
 Recupera la dirección de quema. Cualquier moneda enviada a la Dirección de Burn se quema automáticamente.
 

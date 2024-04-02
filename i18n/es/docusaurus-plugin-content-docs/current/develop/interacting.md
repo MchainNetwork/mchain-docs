@@ -11,8 +11,8 @@ Esta guía proporciona una visión general de los métodos y herramientas clave 
 
 Hay dos formas principales de interactuar con un nodo en la red de Mchain:
 
-1. **Acceso Directo**: Si estás ejecutando tu propio nodo de Mchain, puedes interactuar directamente con él utilizando la interfaz de línea de comandos (CLI) o APIs. Sigue la guía sobre [Ejecutar un Nodo en Testnet](/docs/validate/joining-testnet) para la configuración inicial.
-2. **Nodos Públicos**: Alternativamente, puedes conectarte a nodos públicos proporcionados por Mchain u otros proveedores de servicios.
+1. **Acceso directo**: Si estás ejecutando tu propio nodo de Mchain, puedes interactuar directamente con él utilizando la interfaz de línea de comandos (CLI) o APIs. Sigue la guía sobre [Ejecutar un Nodo en Testnet](/docs/validate/joining-testnet) para la configuración inicial.
+2. **Nodos públicos**: Alternativamente, puedes conectarte a nodos públicos proporcionados por Mchain u otros proveedores de servicios.
 
 ## Usando la interfaz de línea de comandos (CLI)
 

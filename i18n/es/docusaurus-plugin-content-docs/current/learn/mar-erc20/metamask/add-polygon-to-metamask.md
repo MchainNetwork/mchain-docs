@@ -29,7 +29,7 @@ Metamask es una cartera de criptomonedas y una puerta de acceso a aplicaciones d
 
 7. ¡Listo! Ahora puedes interactuar con la red Polygon PoS en Metamask.
 
-### Opción 2: Configuración Manual
+### Opción 2: Configuración manual
 
 1. Abre Metamask y asegúrate de que la extensión esté instalada en tu navegador. Si necesitas ayuda, puedes descargarla desde el [sitio web oficial](https://metamask.io/).
 
@@ -39,7 +39,7 @@ Metamask es una cartera de criptomonedas y una puerta de acceso a aplicaciones d
 
 4. Rellena los campos de configuración según la siguiente tabla:
 
-| **Red**                  | **Nueva URL RPC**                                | **ID de Cadena**     | **Símbolo de Moneda** | **URL del Explorador de Bloques**  |
+| **Red**                  | **Nueva URL RPC**                                | **ID de cadena**     | **Símbolo de moneda** | **URL del explorador de bloques**  |
 |--------------------------|--------------------------------------------------|----------------------|-----------------------|------------------------------------|
 | Red principal de Polygon PoS | https://rpc-mainnet.maticvigil.com/             | 137                  | MATIC                 | https://polygonscan.com/           |
 | Red de pruebas Mumbai    | https://rpc-mumbai.maticvigil.com/               | 80001                | MATIC                 | https://mumbai.polygonscan.com/    |

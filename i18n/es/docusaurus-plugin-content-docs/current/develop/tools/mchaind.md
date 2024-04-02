@@ -10,10 +10,10 @@ title: mchaind
 ## Características clave
 
 - **Interacción con Blockchain**: Consulta datos de blockchain, envía transacciones y explora el estado de la blockchain.
-- **Gestión de Nodos**: Inicializa, configura y gestiona nodos de Mchain.
-- **Gestión de Carteras**: Crea y gestiona carteras, genera claves y maneja tokens.
+- **Gestión de nodos**: Inicializa, configura y gestiona nodos de Mchain.
+- **Gestión de carteras**: Crea y gestiona carteras, genera claves y maneja tokens.
 - **Operaciones de Staking**: Participa en staking, delega tokens y gestiona recompensas de staking.
-- **Participación en la Gobernanza**: Crea propuestas, vota y participa en el proceso de gobernanza.
+- **Participación en la gobernanza**: Crea propuestas, vota y participa en el proceso de gobernanza.
 - **Interacción con Smart Tokens**: Emite, acuña e interactúa con Smart Tokens en la red de Mchain.
 
 ## Instalación
@@ -53,11 +53,11 @@ Después de instalar `mchaind`, puedes usar la interfaz de línea de comandos pa
 
 `mchaind` también ofrece funcionalidades avanzadas, incluyendo:
 
-- **Interacción con Módulos Personalizados**: Interactúa con módulos personalizados como Mchain Name Service (MNS), Smart Tokens y otros.
-- **Exportar e Importar Estado**: Exporta e importa el estado de la blockchain para configuración o migración de nodos.
-- **Herramientas de Depuración**: Utiliza herramientas de depuración y diagnóstico para solucionar problemas de nodos.
+- **Interacción con módulos personalizados**: Interactúa con módulos personalizados como Mchain Name Service (MNS), Smart Tokens y otros.
+- **Exportar e importar estado**: Exporta e importa el estado de la blockchain para configuración o migración de nodos.
+- **Herramientas de depuración**: Utiliza herramientas de depuración y diagnóstico para solucionar problemas de nodos.
 
-## Directorio de Trabajo
+## Directorio de trabajo
 
 El directorio de trabajo principal para `mchaind` es `$HOME/.mchain`. Es un lugar crucial donde se almacenan todos los archivos de configuración, datos de blockchain y datos clave relacionados con las cuentas de Mchain.
 

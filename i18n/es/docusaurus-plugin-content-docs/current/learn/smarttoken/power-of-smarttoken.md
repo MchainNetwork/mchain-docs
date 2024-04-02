@@ -13,10 +13,10 @@ Los Smart Tokens están listos para aprovechar un mercado sustancial. El tamaño
 
 ### Mercado adaptable para los Smart Tokens de Mchain
 
-- **Pequeñas y Medianas Empresas (PYMEs)**: Con un estimado de más de 500 millones de PYMEs a nivel global, según el Banco Mundial, el potencial de los Smart Tokens para revolucionar la lealtad y el compromiso en este sector es inmenso.
-- **Sector Sin Fines de Lucro**: La industria global sin fines de lucro, valorada en miles de millones de dólares, se beneficiaría significativamente de incentivos y recaudación de fondos basados en tokens.
+- **Pequeñas y medianas empresas (PYMEs)**: Con un estimado de más de 500 millones de PYMEs a nivel global, según el Banco Mundial, el potencial de los Smart Tokens para revolucionar la lealtad y el compromiso en este sector es inmenso.
+- **Sector sin fines de lucro**: La industria global sin fines de lucro, valorada en miles de millones de dólares, se beneficiaría significativamente de incentivos y recaudación de fondos basados en tokens.
 - **Mercado de Influencers**: El marketing de influencers es una industria en auge, valorada en aproximadamente 21.1 mil millones de dólares en 2023. Los Smart Tokens ofrecen una nueva dimensión de compromiso con la audiencia y monetización para influencers y creadores de contenido.
-- **Entusiastas de Blockchain y Criptomonedas**: Con un estimado de 420 millones de usuarios de criptomonedas en todo el mundo en 2023, el mercado de Smart Tokens tiene una audiencia preparada y en crecimiento.
+- **Entusiastas de Blockchain y criptomonedas**: Con un estimado de 420 millones de usuarios de criptomonedas en todo el mundo en 2023, el mercado de Smart Tokens tiene una audiencia preparada y en crecimiento.
 
 ## ¿Qué son los Smart Tokens?
 
@@ -28,12 +28,12 @@ Los Smart Tokens de Mchain están preparados para ser un catalizador para promov
 
 ## Oportunidades para todos
 
-- **Pequeñas Empresas**: Crear programas de lealtad con tokens personalizados, recompensando a los clientes y aumentando el compromiso de estos.
-- **Asociaciones y Fundaciones**: Emitir tokens para incentivar donaciones, trabajo voluntario o participación comunitaria.
+- **Pequeñas empresas**: Crear programas de lealtad con tokens personalizados, recompensando a los clientes y aumentando el compromiso de estos.
+- **Asociaciones y fundaciones**: Emitir tokens para incentivar donaciones, trabajo voluntario o participación comunitaria.
 - **Influencers y YouTubers**: Comprometerse con los seguidores a un nivel más profundo, ofreciendo acceso exclusivo o recompensas a través de tokens personalizados.
 - **Organizaciones**: Implementar sistemas basados en tokens para recompensas internas, gobernanza o recaudación de fondos.
 
-## IBC e Interoperabilidad
+## IBC e interoperabilidad
 
 Con la integración del protocolo de Comunicación Inter-Blockchain (IBC), los Smart Tokens de Mchain pueden interactuar sin problemas a través de diferentes redes blockchain. Esta interoperabilidad amplía la utilidad y el alcance de estos tokens, convirtiéndolos en una herramienta versátil para diversas aplicaciones e industrias.
 

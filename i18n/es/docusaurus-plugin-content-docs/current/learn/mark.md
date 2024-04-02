@@ -8,9 +8,9 @@ title: Token MARK
 MARK, que significa "Monetary Asset Reward Key", es la criptomoneda principal y unidad de cuenta en la blockchain de Mchain. Juega un papel crucial en el ecosistema de Mchain, sirviendo como medio central de intercambio, unidad de valor y mecanismo de incentivo.
 
 ### Características clave de MARK
-- **Utilidad y Funcionalidad**: MARK se utiliza para tarifas de transacción, staking, participación en la gobernanza y como mecanismo de recompensa dentro del ecosistema de Mchain.
+- **Utilidad y funcionalidad**: MARK se utiliza para tarifas de transacción, staking, participación en la gobernanza y como mecanismo de recompensa dentro del ecosistema de Mchain.
 - **Recompensas de Staking**: Los usuarios pueden ganar MARK participando en el mecanismo de staking de la red, ya sea como validadores o delegadores.
-- **Participación en la Gobernanza**: Tener MARK da derecho a los usuarios a participar en el proceso de gobernanza, proponiendo o votando sobre varios cambios y mejoras en la red de Mchain.
+- **Participación en la gobernanza**: Tener MARK da derecho a los usuarios a participar en el proceso de gobernanza, proponiendo o votando sobre varios cambios y mejoras en la red de Mchain.
 - **Servicio de Nombres de Mchain (MNS)**: MARK se utiliza para registrar nombres de dominio dentro del Servicio de Nombres de Mchain, mejorando la utilidad de la red.
 
 ### Comprar Token MARK

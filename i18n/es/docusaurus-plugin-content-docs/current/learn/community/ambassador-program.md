@@ -26,7 +26,7 @@ Como Embajador de Mchain, tú:
 - Ayudarás a los recién llegados a entender e integrarse en la comunidad de Mchain.
 - Venderás paquetes de Mchain a negocios y organizaciones locales, manteniendo las ganancias generadas.
 
-**Flexibilidad de Tareas**: Valoramos tus habilidades y preferencias. ¡Elige actividades que mejor se adapten a ti!
+**Flexibilidad de tareas**: Valoramos tus habilidades y preferencias. ¡Elige actividades que mejor se adapten a ti!
 
 ## Beneficios para los Embajadores
 

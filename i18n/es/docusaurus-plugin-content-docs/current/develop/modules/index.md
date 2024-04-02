@@ -1,45 +1,45 @@
 ---
 sidebar_position: 1
-title: Introduction
+título: Introducción
 ---
 
-# Modules Overview
+# Visión general de los módulos
 
-## Mchain Modules
+## Módulos de Mchain
 
-Mchain modules are crucial for the functionality and operations of the Mchain blockchain. They offer a wide range of functionalities, neatly organized within the Mchain directory. Here's a list of these modules with links for more detailed information:
+Los módulos de Mchain son cruciales para la funcionalidad y operaciones de la blockchain de Mchain. Ofrecen una amplia gama de funcionalidades, organizadas de manera ordenada dentro del directorio de Mchain. Aquí tienes una lista de estos módulos con enlaces para obtener más información detallada:
 
-| Custom Module                    | Functionality                                                                                                  | Status            |
+| Módulo personalizado                  | Funcionalidad                                                                                                    | Estado             |
 |----------------------------------|----------------------------------------------------------------------------------------------------------------|-------------------|
-| [smarttoken](./smarttoken)       | Allows the creation of programmable Smart Tokens on Mchain.                                                    | Active            |
-| [mns](./mns)                     | Mchain Name Service - Manages domain names on the Mchain blockchain and domain marketplace.                    | Active            |
-| [burn](./burn)                   | Allows the burning of specific tokens, including MARK, BEER, and any Smart Token.                              | Active            |
-| [proofofexistence](./proofofexistence) | For registering and verifying the existence of any data or document.                                     | Active            |
-| [bmint](./bmint)                 | Responsible for minting the meme token BEER. Assigns one BEER per block to the validator of that block.        | Active            |
-| [epoch](./epoch)                 | Manages time-bound activities and events crucial for applications like gaming.                                 | Under Development |
-| [oracle](./oracle)               | Module for integrating external data feeds and oracles.                                                        | Under Development |
-| [dex](./dex)                     | Decentralized exchange for trading assets and cryptocurrencies on Mchain.                                      | Under Development |
+| [smarttoken](./smarttoken)       | Permite la creación de Smart Tokens programables en Mchain.                                                     | Activo            |
+| [mns](./mns)                     | Servicio de Nombres de Mchain - Gestiona nombres de dominio en la blockchain de Mchain y el mercado de dominios. | Activo            |
+| [burn](./burn)                   | Permite la quema de tokens específicos, incluidos MARK, BEER, y cualquier Smart Token.                          | Activo            |
+| [proofofexistence](./proofofexistence) | Para registrar y verificar la existencia de cualquier dato o documento.                                   | Activo            |
+| [bmint](./bmint)                 | Responsable de acuñar el token meme BEER. Asigna un BEER por bloque al validador de ese bloque.                  | Activo            |
+| [epoch](./epoch)                 | Gestiona actividades y eventos vinculados al tiempo cruciales para aplicaciones como juegos.                    | En Desarrollo     |
+| [oracle](./oracle)               | Módulo para integrar fuentes de datos externas y oráculos.                                                      | En Desarrollo     |
+| [dex](./dex)                     | Intercambio descentralizado para comerciar activos y criptomonedas en Mchain.                                   | En Desarrollo     |
 
-## Cosmos Modules
+## Módulos de Cosmos
 
-Cosmos SDK modules provide the essential tools for developing customizable and interoperable blockchains. They range from account management to consensus protocols within the standard Cosmos SDK directory.
+Los módulos de Cosmos SDK proporcionan las herramientas esenciales para desarrollar blockchains personalizables e interoperables. Van desde la gestión de cuentas hasta los protocolos de consenso dentro del directorio estándar de Cosmos SDK.
 
-To learn more about building and exploring these Cosmos modules, visit the [Cosmos SDK Modules documentation](https://docs.cosmos.network/main/build/modules).
+Para aprender más sobre cómo construir y explorar estos módulos de Cosmos, visita la [documentación de Módulos de Cosmos SDK](https://docs.cosmos.network/main/build/modules).
 
-| Module         | Description                                                                   |
-|----------------|-------------------------------------------------------------------------------|
-| auth           | Manages authentication of accounts and transactions.                          |
-| authz          | Authorization for accounts to act on behalf of others.                        |
-| bank           | Provides functionalities for token transfers.                                 |
-| crisis         | Halts the blockchain under specific critical conditions.                      |
-| distribution   | Manages fee and staking token distribution.                                   |
-| evidence       | Handles evidence related to misbehaviours like double signing.                |
-| feegrant       | Allows granting of fee allowances for transactions.                           |
-| gov            | Facilitates on-chain proposals and voting.                                    |
-| mint           | Responsible for creating new units of staking token.                          |
-| slashing       | Implements validator punishment mechanisms.                                   |
-| staking        | Provides a Proof-of-Stake layer for blockchains.                              |
-| upgrade        | Manages and coordinates software upgrades.                                    |
-| nft            | Implements an NFT module based on ADR43.                                      |
-| consensus      | Modifies CometBFT's ABCI consensus parameters.                                |
-| genutil        | Offers genesis utilities for the Cosmos SDK.                                  |
+| Módulo         | Descripción                                                                       |
+|----------------|-----------------------------------------------------------------------------------|
+| auth           | Gestiona la autenticación de cuentas y transacciones.                             |
+| authz          | Autorización para que las cuentas actúen en nombre de otros.                       |
+| bank           | Proporciona funcionalidades para transferencias de tokens.                         |
+| crisis         | Detiene la blockchain bajo condiciones críticas específicas.                      |
+| distribution   | Gestiona la distribución de comisiones y tokens de staking.                        |
+| evidence       | Maneja pruebas relacionadas con mal comportamientos como la doble firma.           |
+| feegrant       | Permite la concesión de permisos de comisión para transacciones.                   |
+| gov            | Facilita propuestas en cadena y votaciones.                                        |
+| mint           | Responsable de crear nuevas unidades de token de staking.                          |
+| slashing       | Implementa mecanismos de castigo para validadores.                                 |
+| staking        | Proporciona una capa de Proof-of-Stake para blockchains.                           |
+| upgrade        | Gestiona y coordina actualizaciones de software.                                   |
+| nft            | Implementa un módulo NFT basado en ADR43.                                          |
+| consensus      | Modifica los parámetros de consenso ABCI de CometBFT.                              |
+| genutil        | Ofrece utilidades de génesis para el Cosmos SDK.                                   |

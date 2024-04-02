@@ -11,7 +11,7 @@ Esta sección de la documentación sirve como un archivo y referencia histórica
 
 El 1 de octubre promete ser un día histórico para la comunidad de Mchain, marcando el inicio de la distribución de tokens MAR ERC20. En esta ocasión, te traemos detalles sobre las mejoras propuestas y una estructura de redistribución optimizada diseñada para fomentar un futuro próspero para todos los miembros de la comunidad. Aquí tienes todo lo que necesitas saber:
 
-### Puntos Clave
+### Puntos clave
 - Fecha de inicio de la distribución: 1 de octubre
 - Número total de tokens MAR ERC20 a ser creados: 110,000,000
 - Distribución a los tenedores de Mchain v1: 105,248,200 tokens
@@ -21,25 +21,25 @@ El 1 de octubre promete ser un día histórico para la comunidad de Mchain, marc
 - Introducción de un nuevo sistema de staking a través de Uniswap V3 Staker
 - Email de soporte support@mchain.network
 
-## Creación y Distribución de Tokens MAR ERC20
+## Creación y distribución de Tokens MAR ERC20
 
 La comunidad de Mchain está dando un paso significativo al crear 110,000,000 tokens MAR ERC20. Se ha establecido que 105,248,200 tokens serán distribuidos entre los tenedores de Mchain v1, asegurando que no se producirán más tokens MAR ERC20 en el futuro.
 
-## Provisión de Liquidez y Bloqueo
+## Provisión de liquidez y bloqueo
 
 Un total de 4,751,800 tokens MAR están asignados específicamente para proporcionar liquidez en Uniswap V3, sumando un total de 110,000,000 tokens MAR ERC20 a ser creados junto con los 105,248,200 tokens para los tenedores de Mchain v1. Estos tokens estarán bloqueados en el pool de Uniswap V3 por un período determinado, después del cual se utilizarán para beneficiar a la comunidad de Mchain de varias maneras.
 
-## Proceso de Quema
+## Proceso de quema
 
 Los usuarios pueden quemar tokens MAR utilizando la función "burn" incorporada en el contrato inteligente de la plataforma, ayudando a mantener el equilibrio económico y potencialmente aumentando el valor del token con el tiempo.
 
-## Proceso de Reclamación
+## Proceso de reclamación
 
 Si estás interesado en participar en esta migración y aprovechar los beneficios de la nueva blockchain, te invitamos a completar el *** [siguiente formulario](https://forms.gle/9SWZLE8vkGPCrSZc8) *** para unirte a la lista de personas interesadas en el intercambio de monedas. Esta lista nos ayudará a comunicarnos contigo y proporcionarte más información sobre el proceso de migración.
 
 Los tokens no reclamados para el 1 de octubre se podrán adquirir en dos fechas posteriores, el 1 de noviembre y el 1 de diciembre, con una deducción del 33.33% de tokens MAR en cada fase no atendida. Los tokens no reclamados serán redistribuidos según una nueva estrategia.
 
-## Nueva Estrategia de Redistribución
+## Nueva estrategia de redistribución
 
 Los tokens no reclamados se redistribuirán de la siguiente manera para asegurar un crecimiento equitativo y sostenible de la plataforma:
 
@@ -54,11 +54,9 @@ Los tokens no reclamados se redistribuirán de la siguiente manera para asegurar
 
 ## Staking MAR ERC20: Uniswap V3 Staker
 
-
-
 Además, se introducirá un nuevo sistema de staking a través de Uniswap V3 Staker, permitiendo a los proveedores de liquidez participar en el staking de sus NFTs de posición de liquidez en el pool MAR/ETH en Uniswap V3, creando nuevas oportunidades de ingresos para los miembros de la comunidad.
 
-## Soporte para la Migración
+## Soporte para la migración
 
 Entendemos que migrar a la nueva estructura de tokens MAR ERC20 podría presentar algunas consultas o desafíos técnicos. Estamos aquí para asegurarnos de que tu transición sea lo más fluida posible. Si encuentras algún problema o tienes preguntas durante el proceso, no dudes en contactar a nuestro equipo de soporte dedicado.
 

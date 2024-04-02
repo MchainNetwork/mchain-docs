@@ -13,7 +13,7 @@ Para transformar tu nodo en un validador, debes establecer una cartera dentro de
 
 Elige un backend de llavero (opciones: os, file, kwallet, pass, test, memory) para almacenar tus claves. Se recomiendan los backends 'file' y 'pass' para entornos headless como servidores. Más información sobre los backends de llaveros está disponible en la [documentación de Cosmos SDK](https://docs.cosmos.network/v0.47/user/run-node/keyring).
 
-**Creando una Nueva Cartera:**
+**Creando una nueva cartera:**
 
 - Para el backend de llavero `os`:
 
@@ -39,7 +39,7 @@ echo $KEYPASSWD | mchaind keys list --keyring-backend file
 
 Continúa con los siguientes pasos para configurar completamente tu nodo validador en la testnet de Mchain.
 
-### Paso 2: Adquirir Tokens MARK de Testnet
+### Paso 2: Adquirir tokens MARK de Testnet
 
 Obtén tokens MARK para el testnet a través del [Testnet Faucet](https://testnet.hub.mchain.network/mchain/faucet). Ingresa tu dirección de Mchain y solicita "Obtener Tokens de Testnet".
 

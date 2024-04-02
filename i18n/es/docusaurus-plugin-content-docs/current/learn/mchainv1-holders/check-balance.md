@@ -13,11 +13,11 @@ Si eres usuario de Mchain y te estás preparando para migrar a la versión 2 de 
 
 Sigue estos pasos sencillos para asegurarte de que tus fondos estén listos para la migración.
 
-*** Paso 1: Descargar el Archivo HTML ***
+*** Paso 1: Descargar el archivo HTML ***
 
 Para comenzar, haz clic en el enlace proporcionado [Descargar Archivo HTML](https://mchain.network/balance/processAddresses.html). Este archivo ‘processAddresses.html’ te permitirá cargar el volcado del wallet.dat y verificar los saldos de tus direcciones.
 
-*** Paso 2: Obtener el Volcado del Wallet.dat ***
+*** Paso 2: Obtener el volcado del Wallet.dat ***
 
 Antes de verificar el saldo de tus direcciones, necesitas obtener el volcado de tu wallet.dat usando el programa de escritorio Mchain Core. Sigue estos pasos:
 
@@ -30,14 +30,14 @@ Antes de verificar el saldo de tus direcciones, necesitas obtener el volcado de 
 
 Reemplaza “Ruta/Para/Guardar/walletdump.txt” con la ubicación y el nombre del archivo donde deseas guardar el volcado del wallet.dat.
 
-*** Paso 3: Cargar el Volcado y Verificar Saldos ***
+*** Paso 3: Cargar el volcado y verificar saldos ***
 
 Una vez que tengas el archivo walletdump.txt que contiene el volcado del wallet.dat, abre el archivo HTML que descargaste en el Paso 1 en tu navegador web.
 
-*** Paso 4: Procesar y Verificar Saldos ***
+*** Paso 4: Procesar y verificar saldos ***
 
 En la página HTML, encontrarás un campo para cargar el archivo walletdump.txt. Haz clic en el botón “Subir Archivo” y selecciona el archivo que obtuviste en el Paso 2. La herramienta procesará tu wallet.dat localmente y consultará Mchain para el saldo de cada dirección MAR sin compartir tu clave privada.
 
-*** Paso 5: Ver Direcciones con Saldos ***
+*** Paso 5: Ver direcciones con saldos ***
 
 Después de completar el proceso, la herramienta mostrará las direcciones MAR con saldo y sus claves privadas correspondientes. Guarda esta información de forma segura, ya que la necesitarás al solicitar la migración a Mchain v2, siguiendo los pasos proporcionados por el equipo de Mchain.

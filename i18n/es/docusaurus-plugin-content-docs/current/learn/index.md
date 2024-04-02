@@ -13,17 +13,17 @@ Mchain Docs es tu guía esencial para navegar en el ecosistema de Mchain. Ya sea
 
 Nuestra documentación se actualiza y amplía continuamente para cubrir una amplia gama de temas, incluyendo:
 
-- **Primeros Pasos**: Sumérgete en los conceptos básicos de Mchain, incluyendo Smart Tokens, configuración de tu monedero y estrategias iniciales de participación.
+- **Primeros pasos**: Sumérgete en los conceptos básicos de Mchain, incluyendo Smart Tokens, configuración de tu monedero y estrategias iniciales de participación.
 - **Mchain Hub**: Profundiza en las funcionalidades y características del Mchain Hub, incluyendo Mchain Name Service (MNS), Smart Tokens, gobernanza, staking y más.
-- **Validadores y Nodos**: Descubre el papel crítico de los validadores, cómo ejecutar un nodo y contribuir a la seguridad y eficiencia de la red.
-- **Herramientas y Recursos para Desarrolladores**: Accede a guías para desarrolladores, referencias de API y herramientas para construir en Mchain.
-- **Comunidad y Soporte**: Únete a nuestra vibrante comunidad y descubre cómo obtener soporte si lo necesitas.
+- **Validadores y nodos**: Descubre el papel crítico de los validadores, cómo ejecutar un nodo y contribuir a la seguridad y eficiencia de la red.
+- **Herramientas y recursos para desarrolladores**: Accede a guías para desarrolladores, referencias de API y herramientas para construir en Mchain.
+- **Comunidad y soporte**: Únete a nuestra vibrante comunidad y descubre cómo obtener soporte si lo necesitas.
 
 ## 🔥 Participa en el Testnet de Mchain
 
-- **Prueba y Gana**: Participa en nuestro Testnet y gana recompensas participando en diversas actividades.
+- **Prueba y gana**: Participa en nuestro Testnet y gana recompensas participando en diversas actividades.
 - **Gobernanza**: Ten voz en el futuro de Mchain participando en propuestas de gobernanza.
-- **Explora e Innova**: Experimenta con Smart Tokens y las características únicas de Mchain para crear soluciones innovadoras.
+- **Explora e innova**: Experimenta con Smart Tokens y las características únicas de Mchain para crear soluciones innovadoras.
 
 ## ¿Necesitas Ayuda?
 

@@ -29,6 +29,6 @@ Sumérgete en el mundo de la Blockchain de Mchain con varias herramientas y clie
 
 ## Clientes GRPC en otros lenguajes
 
-**Clientes Personalizados**: Utiliza el poder de Cosmos y los protos de Mchain para crear tu propio cliente en tu lenguaje de programación preferido. La comunidad de Mchain da la bienvenida a innovadores y creadores para desarrollar y compartir sus clientes únicos, enriqueciendo el ecosistema de Mchain con sus diversas contribuciones.
+**Clientes personalizados**: Utiliza el poder de Cosmos y los protos de Mchain para crear tu propio cliente en tu lenguaje de programación preferido. La comunidad de Mchain da la bienvenida a innovadores y creadores para desarrollar y compartir sus clientes únicos, enriqueciendo el ecosistema de Mchain con sus diversas contribuciones.
 
 - Comienza a construir tu cliente personalizado [aquí](https://github.com/MchainNetwork/mchain/tree/main/proto/mchain).

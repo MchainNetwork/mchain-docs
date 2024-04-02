@@ -12,8 +12,8 @@ title: Guía para colaboradores
 Para asegurar la consistencia y calidad en nuestra documentación:
 
 1. **Comenzando**: Familiarízate antes de contribuir.
-2. **Formas de Contribuir**: Entiende los diferentes métodos para ofrecer tu experiencia.
-3. **Ideas para Contribuir**: Obtén claridad sobre qué contribuciones pueden ser más impactantes.
+2. **Formas de contribuir**: Entiende los diferentes métodos para ofrecer tu experiencia.
+3. **Ideas para contribuir**: Obtén claridad sobre qué contribuciones pueden ser más impactantes.
 
 ## Comenzando
 

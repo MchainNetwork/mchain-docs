@@ -27,6 +27,6 @@ La búsqueda inversa permite a usuarios y desarrolladores encontrar el nombre de
 
 ## Aplicaciones de la búsqueda inversa
 
-- **Verificación de Identidad**: Ayuda a verificar identidades de usuarios asociando direcciones de blockchain con nombres de dominio conocidos.
+- **Verificación de identidad**: Ayuda a verificar identidades de usuarios asociando direcciones de blockchain con nombres de dominio conocidos.
 - **Mejora de UX en dApps**: Las dApps pueden usar la búsqueda inversa para mostrar nombres de dominio en lugar de direcciones crípticas, mejorando así la experiencia del usuario.
-- **Integración con Servicios Web3**: Los servicios y aplicaciones Web3 pueden utilizar la búsqueda inversa para mejorar sus interfaces y funcionalidades.
+- **Integración con servicios Web3**: Los servicios y aplicaciones Web3 pueden utilizar la búsqueda inversa para mejorar sus interfaces y funcionalidades.

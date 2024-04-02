@@ -13,7 +13,7 @@ Esta guía te mostrará cómo añadir el token MAR ERC20 a tu cartera de Metamas
 - Ten tu cartera de Metamask configurada con una contraseña segura y una frase de respaldo.
 - Copia la dirección correcta del [contrato MAR ERC20](/docs/learn/mar-erc20/specifications) en tu portapapeles.
 
-### Pasos para Añadir MAR ERC20 a Metamask
+### Pasos para añadir MAR ERC20 a Metamask
 
 1. **Abrir Metamask**: Haz clic en el ícono de la extensión de Metamask en tu navegador para abrirlo.
 
@@ -23,12 +23,12 @@ Esta guía te mostrará cómo añadir el token MAR ERC20 a tu cartera de Metamas
     - Haz clic en el `Menú` (a menudo representado por tres líneas horizontales en la parte superior izquierda).
     - Elige `Añadir Token` en el menú desplegable.
 
-4. **Token Personalizado**: 
+4. **Token personalizado**: 
     - Navega a la pestaña de `Token Personalizado`.
     - Necesitarás introducir la dirección del contrato del token MAR (asegúrate de obtenerla del sitio web oficial de Mchain o de una fuente de confianza para evitar estafas).
     - Una vez que hayas introducido la dirección del contrato, los demás campos, como el Símbolo del Token y los Decimales de Precisión, deberían completarse automáticamente. Si no es así, introduce `Mchain Token` para el Nombre del Token, `MAR` para el Símbolo del Token y `18` para los Decimales.
 
-5. **Añadir y Confirmar**: 
+5. **Añadir y confirmar**: 
     - Haz clic en el botón `Siguiente` para ver un resumen de los detalles del token MAR.
     - Confirma que los detalles son correctos y haz clic en `Añadir Tokens`.
 

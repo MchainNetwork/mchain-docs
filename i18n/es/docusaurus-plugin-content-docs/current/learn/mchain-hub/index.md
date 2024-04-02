@@ -17,8 +17,8 @@ Los Smart Tokens en Mchain son activos digitales versátiles con una gama de car
 ### Servicio de Nombres de Mchain (MNS)
 MNS es un protocolo descentralizado que simplifica las interacciones humanas con la blockchain de Mchain. Traduce direcciones de blockchain complejas en nombres legibles por humanos que terminan en '.mark'. MNS mejora la experiencia del usuario y la interoperabilidad entre diferentes criptomonedas y servicios.
 
-### Prueba de Existencia
-El módulo de Prueba de Existencia en Mchain permite a los usuarios registrar y verificar la existencia de cualquier archivo digital utilizando tecnología blockchain. Proporciona una prueba segura e inmutable de existencia para documentos, imágenes y otros activos digitales.
+### Prueba de existencia
+El módulo de Prueba de existencia en Mchain permite a los usuarios registrar y verificar la existencia de cualquier archivo digital utilizando tecnología blockchain. Proporciona una prueba segura e inmutable de existencia para documentos, imágenes y otros activos digitales.
 
 ### Token BEER
 El token BEER es el token meme único de Mchain, acuñado con cada bloque creado. Es una recompensa para los validadores de bloques y sus delegadores. Aunque no se centra en tener un valor real en el mundo, los tokens BEER podrían utilizarse en juegos y otras actividades atractivas en Mchain en el futuro.
@@ -39,7 +39,7 @@ La integración de la Cartera Keplr es esencial para interactuar con el Mchain H
 El Mchain Hub ofrece una interfaz amigable con varias funcionalidades:
 
 - **Explorador**: Rastrear transacciones, bloques, direcciones y Smart Tokens. Ver estadísticas en tiempo real como la altura del bloque, el suministro total y las tasas de inflación.
-- **Visualización de Parámetros**: Ver los parámetros actuales de varios módulos de Mchain. Esencial para usuarios interesados en hacer propuestas de gobernanza.
+- **Visualización de parámetros**: Ver los parámetros actuales de varios módulos de Mchain. Esencial para usuarios interesados en hacer propuestas de gobernanza.
 
 ## Participando en el ecosistema de Mchain
 En el Mchain Hub, los usuarios pueden hacer staking con tokens, participar en la gobernanza, crear Smart Tokens o usar MNS. Tu participación ayuda a dar forma al futuro de Mchain y puede generar recompensas, especialmente valiosas para el próximo lanzamiento de MainNet. Para más detalles, consulta la [guía de participación en Testnet](/docs/learn/participate).

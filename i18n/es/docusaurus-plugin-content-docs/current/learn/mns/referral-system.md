@@ -9,9 +9,9 @@ El Servicio de Nombres de Mchain (MNS) incluye un sistema de referencias innovad
 
 ## ¿Cómo funciona?
 
-- **Registra un Dominio**: Comienza registrando tu propio dominio en MNS.
-- **Comparte Tu Enlace de Referencia**: Agrega `?ref=tudominio.mark` al final del URL del Mchain Hub. Por ejemplo: `https://testnet.hub.mchain.network/mchain/mns?ref=tudominio.mark`.
-- **Gana Comisiones**: Recibe comisiones por cada nuevo registro, renovación o venta de dominio realizada a través de tu enlace de referencia.
+- **Registra un dominio**: Comienza registrando tu propio dominio en MNS.
+- **Comparte tu enlace de referencia**: Agrega `?ref=tudominio.mark` al final del URL del Mchain Hub. Por ejemplo: `https://testnet.hub.mchain.network/mchain/mns?ref=tudominio.mark`.
+- **Gana comisiones**: Recibe comisiones por cada nuevo registro, renovación o venta de dominio realizada a través de tu enlace de referencia.
 
 ## Porcentajes de comisión
 
@@ -19,26 +19,26 @@ Los porcentajes de comisión que se pueden ganar son controlados por la gobernan
 
 Estos son los porcentajes iniciales:
 
-1. **Registro de Dominio**: Gana una comisión del 10% sobre el costo de registro cada vez que alguien registre un dominio usando tu enlace de referencia.
-2. **Renovación de Dominio**: Gana una comisión del 10% sobre la tarifa de renovación de cualquier dominio renovado a través de tu enlace.
-3. **Venta de Dominio**: Recibe una comisión del 10% sobre la tarifa cobrada por la blockchain por la venta de cualquier dominio realizado a través de tu enlace de referencia.
+1. **Registro de dominio**: Gana una comisión del 10% sobre el costo de registro cada vez que alguien registre un dominio usando tu enlace de referencia.
+2. **Renovación de dominio**: Gana una comisión del 10% sobre la tarifa de renovación de cualquier dominio renovado a través de tu enlace.
+3. **Venta de dominio**: Recibe una comisión del 10% sobre la tarifa cobrada por la blockchain por la venta de cualquier dominio realizado a través de tu enlace de referencia.
 
 ## Beneficios del Sistema de Referidos
 
-- **Genera Ingresos Pasivos**: Una forma simple y efectiva de ganar ingresos pasivos mientras promueves la utilidad de MNS.
-- **Expande Tu Red**: Tu red y posibles ganancias crecen a medida que más personas usan tu enlace de referencia.
-- **Contribuye al Crecimiento de Mchain**: Ayuda a expandir la comunidad de Mchain incentivando el uso de dominios .mark.
+- **Genera ingresos pasivos**: Una forma simple y efectiva de ganar ingresos pasivos mientras promueves la utilidad de MNS.
+- **Expande tu Red**: Tu red y posibles ganancias crecen a medida que más personas usan tu enlace de referencia.
+- **Contribuye al crecimiento de Mchain**: Ayuda a expandir la comunidad de Mchain incentivando el uso de dominios .mark.
 
 ## Herramientas y recursos
 
 - **Mchain Hub**: Utiliza la interfaz del Mchain Hub para gestionar tus referencias y monitorear tus ganancias.
-- **Material Promocional**: Tienes acceso a varios recursos y materiales promocionales para ayudarte a compartir tu enlace de referencia.
+- **Material promocional**: Tienes acceso a varios recursos y materiales promocionales para ayudarte a compartir tu enlace de referencia.
 
 ## Consejos para maximizar tus ganancias
 
-- **Promoción Activa**: Comparte tu enlace en redes sociales, blogs, foros y con tu red de contactos.
-- **Explica los Beneficios del MNS**: Explica qué es el Servicio de Nombres de Mchain y por qué es valioso.
-- **Sé Creativo**: Crea contenido atractivo y educativo para animar a otros a usar tu enlace de referencia.
+- **Promoción activa**: Comparte tu enlace en redes sociales, blogs, foros y con tu red de contactos.
+- **Explica los beneficios del MNS**: Explica qué es el Servicio de Nombres de Mchain y por qué es valioso.
+- **Sé creativo**: Crea contenido atractivo y educativo para animar a otros a usar tu enlace de referencia.
 
 ## Referidos en Testnet
 

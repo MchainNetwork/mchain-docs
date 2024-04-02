@@ -7,9 +7,9 @@ title: Introducción
 
 Ya seas un desarrollador, entusiasta o futuro validador, instalar y ejecutar un nodo de Mchain puede ser una experiencia valiosa. Al configurar un nodo, puedes:
 
-- **Participar en Pruebas**: Probar transacciones en un entorno controlado.
-- **Participar como Usuario CLI**: Interactuar con la blockchain de Mchain a través de la línea de comandos.
-- **Prepararte para Responsabilidades de Validador**: Familiarizarte con las operaciones y la gestión de un nodo antes de convertirte en validador.
+- **Participar en pruebas**: Probar transacciones en un entorno controlado.
+- **Participar como usuario CLI**: Interactuar con la blockchain de Mchain a través de la línea de comandos.
+- **Prepararte para responsabilidades de Validador**: Familiarizarte con las operaciones y la gestión de un nodo antes de convertirte en validador.
 
 ## Rol del Validador en Mchain
 
@@ -17,7 +17,7 @@ Los validadores son la columna vertebral de la red Mchain, responsables de mante
 
 - **Participarás en el Consenso**: Validar transacciones y crear nuevos bloques.
 - **Asegurarás la Red**: Apostar tokens para mostrar compromiso y compartir responsabilidades de seguridad.
-- **Participarás en la Gobernanza**: Votar sobre propuestas y participar en el proceso de toma de decisiones.
+- **Participarás en la gobernanza**: Votar sobre propuestas y participar en el proceso de toma de decisiones.
 
 ## Recompensas para Validadores
 
@@ -35,16 +35,16 @@ Los validadores pueden establecer comisiones sobre sus tarifas, sirviendo como u
 
 Antes de convertirse en un validador, es crucial entender los requisitos y responsabilidades:
 
-- **Requisitos de Hardware**: Asegurarse de tener la infraestructura técnica necesaria para ejecutar un nodo de manera eficiente.
-- **Cumplimiento Legal**: Estar consciente de los aspectos legales y requisitos regulatorios de operar un nodo validador en tu país.
-- **Compromiso con la Comunidad**: Los validadores deben ser miembros activos de la comunidad y contribuir al crecimiento de la red.
+- **Requisitos de hardware**: Asegurarse de tener la infraestructura técnica necesaria para ejecutar un nodo de manera eficiente.
+- **Cumplimiento legal**: Estar consciente de los aspectos legales y requisitos regulatorios de operar un nodo validador en tu país.
+- **Compromiso con la comunidad**: Los validadores deben ser miembros activos de la comunidad y contribuir al crecimiento de la red.
 
 ## Configurar un Sitio Web
 
 Como validador, deberías configurar un sitio web para mostrar tu nodo. Este sitio puede ser visible en Mchain Hub e incluir:
 
-- **Información del Nodo**: Mostrar métricas de rendimiento y la fiabilidad de tu nodo.
-- **Credenciales del Equipo**: Resaltar la experiencia y antecedentes de tu equipo.
-- **Medidas de Seguridad**: Detallar los protocolos de seguridad que tienes implementados.
-- **Contribuciones a la Comunidad**: Demostrar tu participación en el ecosistema de Mchain.
-- **Detalles de Contacto**: Proporcionar una manera para que los potenciales stakers se comuniquen contigo.
+- **Información del nodo**: Mostrar métricas de rendimiento y la fiabilidad de tu nodo.
+- **Credenciales del equipo**: Resaltar la experiencia y antecedentes de tu equipo.
+- **Medidas de seguridad**: Detallar los protocolos de seguridad que tienes implementados.
+- **Contribuciones a la comunidad**: Demostrar tu participación en el ecosistema de Mchain.
+- **Detalles de contacto**: Proporcionar una manera para que los potenciales stakers se comuniquen contigo.

@@ -7,18 +7,18 @@ title: Especificaciones
 
 El token MAR funcionará como un token ERC20 durante su fase inicial en la blockchain de Ethereum.
 
-## Suministro Total y Decimales del Token
+## Suministro total y decimales del Token
 
 La cantidad total de tokens MAR ERC20 creados es de **110,000,000**.
 
 El token MAR ERC20 tiene una precisión de **18 decimales**.
 
-## Dirección del Contrato
+## Dirección del contrato
 
 La dirección del contrato desplegado es 
 [`0x4343D80eF5808490a079AA0907FFdC9373C7a4Dd`](https://etherscan.io/address/0x4343D80eF5808490a079AA0907FFdC9373C7a4Dd).
 
-### Direcciones del Contrato MAR ERC20 por Red
+### Direcciones del contrato MAR ERC20 por red
 
 #### Mainnet
 
@@ -36,6 +36,6 @@ La dirección del contrato desplegado es
 | Mumbai Testnet | `0xF0F65D18c59da5Ed05f8F5b97bCadA933CB4e054` |
 | zkEVM Testnet | `0x6891af56d293983ED505344657D83AE1954a2e24` |
 
-## Dirección de Quema
+## Dirección de quemado
 
-La dirección de quema designada para MAR ERC20 es `0x0000000000000000000000000000000000000000`.
+La dirección de quemado designada para MAR ERC20 es `0x0000000000000000000000000000000000000000`.

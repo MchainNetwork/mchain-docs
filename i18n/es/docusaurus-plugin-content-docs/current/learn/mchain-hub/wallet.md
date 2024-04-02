@@ -16,23 +16,23 @@ La Cartera Keplr es una extensión basada en navegador que permite a los usuario
 - [Agregar Mchain a Keplr](https://testnet.hub.mchain.network/wallet/keplr) - Navegar al Mchain Testnet Hub para la integración de la cartera.
 
 ### Paso 1: Instalación de la Extensión de Keplr
-- **Compatibilidad del Navegador**: Keplr es compatible con navegadores de escritorio como Chrome, Brave y Firefox. El Testnet de Mchain actualmente no está disponible para la aplicación móvil de Keplr.
-- **Proceso de Instalación**: Descarga e instala la extensión de Keplr desde el [sitio web oficial de Keplr](https://www.keplr.app/download).
+- **Compatibilidad del navegador**: Keplr es compatible con navegadores de escritorio como Chrome, Brave y Firefox. El Testnet de Mchain actualmente no está disponible para la aplicación móvil de Keplr.
+- **Proceso de instalación**: Descarga e instala la extensión de Keplr desde el [sitio web oficial de Keplr](https://www.keplr.app/download).
 
 ### Paso 2: Configuración de tu cuenta en Keplr
 - **Lanzar Keplr**: Abre la extensión de Keplr en tu navegador elegido.
-- **Configuración de la Cuenta**: Tienes la opción de crear una nueva cartera o importar una existente. Para obtener orientación detallada, consulta el [Centro de Ayuda de Keplr](https://help.keplr.app/).
+- **Configuración de la cuenta**: Tienes la opción de crear una nueva cartera o importar una existente. Para obtener orientación detallada, consulta el [Centro de Ayuda de Keplr](https://help.keplr.app/).
 
 ### Paso 3: Conexión al Testnet de Mchain
 - **Navegar al Mchain Testnet Hub**: Visita el [Mchain Testnet Hub](https://testnet.hub.mchain.network/wallet/keplr).
 - **Integración con Keplr**: Elige la opción de "Agregar Mchain a Keplr". Aparecerá un popup para confirmar la adición del testnet de Mchain (mchain-testnet-1).
-- **Completar la Conexión**: Confirma la integración en el popup para completar la configuración y vincular tu cartera Keplr al Testnet de Mchain.
+- **Completar la conexión**: Confirma la integración en el popup para completar la configuración y vincular tu cartera Keplr al Testnet de Mchain.
 
 ### Paso 4: Solicitar fondos del Faucet
 - **Limitaciones del Faucet**: Las solicitudes de Faucet están limitadas a una vez cada 24 horas por dirección. Las solicitudes posteriores dentro de este plazo no serán procesadas.
-- **Proceso de Solicitud**: Accede al [Faucet](https://testnet.hub.mchain.network/mchain/faucet) en el Mchain Testnet Hub. Conecta tu cartera y selecciona "Obtener Tokens de Testnet" para recibir tus fondos de prueba.
+- **Proceso de solicitud**: Accede al [Faucet](https://testnet.hub.mchain.network/mchain/faucet) en el Mchain Testnet Hub. Conecta tu cartera y selecciona "Obtener Tokens de Testnet" para recibir tus fondos de prueba.
 
 ### Paso 5: Verificación del saldo de tu cartera
-- **Revisa Tu Saldo**: Para ver tu saldo actual, abre la extensión de Keplr o visita la página principal del Mchain Testnet Hub. Conecta tu cartera Keplr para ver los detalles de tu cuenta.
+- **Revisa tu saldo**: Para ver tu saldo actual, abre la extensión de Keplr o visita la página principal del Mchain Testnet Hub. Conecta tu cartera Keplr para ver los detalles de tu cuenta.
 
 Al configurar tu cartera Keplr y conectarla al Testnet de Mchain, estás listo para explorar las capacidades del Mchain Hub, desde el staking y la gobernanza hasta interactuar con el Servicio de Nombres de Mchain (MNS) y otras aplicaciones descentralizadas.
