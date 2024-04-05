@@ -38,4 +38,4 @@ The address of the deployed contract is
 
 ## Burn Address
 
-The designated burn address for MAR ERC20 is `0x0000000000000000000000000000000000000000`.
+The designated burn address for MAR ERC20 is `0x000000000000000000000000000000000000dEaD`.
