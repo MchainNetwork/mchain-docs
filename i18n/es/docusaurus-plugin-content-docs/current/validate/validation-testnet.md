@@ -5,9 +5,9 @@ title: Validar en Testnet
 
 # Validar en Testnet
 
-Convertirse en un validador en el testnet de Mchain es un paso esencial antes de unirse al mainnet. Este proceso comienza una vez que tu nodo está sincronizado con el testnet. Sigue la guía sobre [Ejecutar un Nodo en Testnet](joining-testnet) para la configuración inicial.
+Convertirse en un validador en el testnet de Mchain es un paso esencial antes de unirse al mainnet. Este proceso comienza una vez que tu nodo está sincronizado con el testnet. Sigue la guía sobre [Ejecutar un nodo en Testnet](joining-testnet) para la configuración inicial.
 
-### Paso 1: Configurar un Llavero de Cartera
+### Paso 1: Configurar un llavero de cartera
 
 Para transformar tu nodo en un validador, debes establecer una cartera dentro de tu llavero. Esto se puede hacer añadiendo una cartera existente utilizando tu frase semilla o creando una nueva. Copia y guarda de forma segura la frase mnemotécnica para la recuperación futura de la cartera y anota tu dirección de Mchain.
 

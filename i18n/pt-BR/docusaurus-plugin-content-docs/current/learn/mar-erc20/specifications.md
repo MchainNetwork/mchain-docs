@@ -38,4 +38,4 @@ O endereço do contrato implantado é
 
 ## Endereço de Queima
 
-O endereço de queima designado para o MAR ERC20 é `0x0000000000000000000000000000000000000000`.
+O endereço de queima designado para o MAR ERC20 é `0x000000000000000000000000000000000000dEaD`.

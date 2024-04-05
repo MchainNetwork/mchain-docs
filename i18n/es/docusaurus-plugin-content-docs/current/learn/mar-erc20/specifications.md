@@ -38,4 +38,4 @@ La dirección del contrato desplegado es
 
 ## Dirección de quemado
 
-La dirección de quemado designada para MAR ERC20 es `0x0000000000000000000000000000000000000000`.
+La dirección de quemado designada para MAR ERC20 es `0x000000000000000000000000000000000000dEaD`.
