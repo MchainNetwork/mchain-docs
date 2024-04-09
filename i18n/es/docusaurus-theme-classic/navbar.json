@@ -19,10 +19,6 @@
     "message": "Nodo y Validadores",
     "description": "Navbar item with label Node & Validators"
   },
-  "item.label.Logbook": {
-    "message": "Bitácora",
-    "description": "Navbar item with label Logbook"
-  },
   "item.label.Mchain Hub": {
     "message": "Mchain Hub",
     "description": "Navbar item with label Mchain Hub"

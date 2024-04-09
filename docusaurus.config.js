@@ -113,6 +113,10 @@ const config = {
                 label: 'Documentation',
                 to: '/docs/learn/',
               },
+              {
+                label: 'Website',
+                to: 'https://mchain.network',
+              },
             ],
           },
           {

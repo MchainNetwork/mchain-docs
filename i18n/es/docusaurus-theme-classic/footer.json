@@ -19,9 +19,9 @@
     "message": "Documentación",
     "description": "The label of footer link with label=Documentation linking to /docs/learn/"
   },
-  "link.item.label.Logbook": {
-    "message": "Bitácora",
-    "description": "The label of footer link with label=Logbook linking to /logbook"
+  "link.item.label.Website": {
+    "message": "Sitio Web",
+    "description": "The label of footer link with label=Website linking to https://mchain.network"
   },
   "link.item.label.Telegram Group": {
     "message": "Grupo de Telegram",
