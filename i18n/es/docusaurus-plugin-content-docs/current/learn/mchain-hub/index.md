@@ -20,9 +20,6 @@ MNS es un protocolo descentralizado que simplifica las interacciones humanas con
 ### Prueba de existencia
 El módulo de Prueba de existencia en Mchain permite a los usuarios registrar y verificar la existencia de cualquier archivo digital utilizando tecnología blockchain. Proporciona una prueba segura e inmutable de existencia para documentos, imágenes y otros activos digitales.
 
-### Token BEER
-El token BEER es el token meme único de Mchain, acuñado con cada bloque creado. Es una recompensa para los validadores de bloques y sus delegadores. Aunque no se centra en tener un valor real en el mundo, los tokens BEER podrían utilizarse en juegos y otras actividades atractivas en Mchain en el futuro.
-
 ### Gobernanza
 La característica de gobernanza del Mchain Hub permite a los usuarios participar en el proceso de toma de decisiones del ecosistema de Mchain. Los usuarios pueden presentar propuestas, votar en varias iniciativas y participar en la gobernanza para dar forma al futuro de Mchain.
 

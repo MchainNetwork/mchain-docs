@@ -46437,48 +46437,6 @@ paths:
                         }
       tags:
         - Query
-  /mchain/bmint/v1beta1/params:
-    get:
-      summary: Parameters queries the parameters of the module.
-      operationId: MchainBmintV1Beta1Params
-      responses:
-        '200':
-          description: A successful response.
-          schema:
-            type: object
-            properties:
-              params:
-                description: params holds all the parameters of this module.
-                type: object
-                properties:
-                  mint_denom:
-                    type: string
-                  tokens_per_block:
-                    type: string
-                    format: int64
-            description: >-
-              QueryParamsResponse is response type for the Query/Params RPC
-              method.
-        default:
-          description: An unexpected error response.
-          schema:
-            type: object
-            properties:
-              code:
-                type: integer
-                format: int32
-              message:
-                type: string
-              details:
-                type: array
-                items:
-                  type: object
-                  properties:
-                    '@type':
-                      type: string
-                  additionalProperties: {}
-      tags:
-        - Query
   /mchain/burn/v1beta1/burn_address:
     get:
       operationId: MchainBurnV1Beta1BurnAddress
@@ -77270,30 +77228,6 @@ definitions:
     description: |-
       Version defines the versioning scheme used to negotiate the IBC verison in
       the connection handshake.
-  mchain.bmint.v1beta1.MsgUpdateParamsResponse:
-    type: object
-  mchain.bmint.v1beta1.Params:
-    type: object
-    properties:
-      mint_denom:
-        type: string
-      tokens_per_block:
-        type: string
-        format: int64
-    description: Params defines the parameters for the module.
-  mchain.bmint.v1beta1.QueryParamsResponse:
-    type: object
-    properties:
-      params:
-        description: params holds all the parameters of this module.
-        type: object
-        properties:
-          mint_denom:
-            type: string
-          tokens_per_block:
-            type: string
-            format: int64
-    description: QueryParamsResponse is response type for the Query/Params RPC method.
   mchain.burn.v1beta1.MsgBurnResponse:
     type: object
     title: MsgBurnResponse defines the MsgBurn response type

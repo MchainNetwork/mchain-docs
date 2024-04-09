@@ -19,9 +19,6 @@ MNS is a decentralized domain name service on the Mchain blockchain, similar to 
 ### What is the MARK Token?
 Monetary Asset Reward Key (MARK) is the native utility token of the Mchain platform, used for transactions, staking, and participating in governance. It plays a pivotal role in maintaining and operating the Mchain network.
 
-### What is BEER Token?
-BEER is a meme token on Mchain, minted as a reward for block creators. It's designed for fun and community engagement rather than as a serious financial instrument.
-
 ### What is the Community Pool?
 The Community Pool is a reserve of MARK tokens, funded through blockchain operations. It's used to finance community-approved projects and initiatives contributing to the Mchain ecosystem.
 

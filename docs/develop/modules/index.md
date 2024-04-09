@@ -15,7 +15,6 @@ Mchain modules are crucial for the functionality and operations of the Mchain bl
 | [mns](./mns)                     | Mchain Name Service - Manages domain names on the Mchain blockchain and domain marketplace.                    | Active            |
 | [burn](./burn)                   | Allows the burning of specific tokens, including MARK, BEER, and any Smart Token.                              | Active            |
 | [proofofexistence](./proofofexistence) | For registering and verifying the existence of any data or document.                                     | Active            |
-| [bmint](./bmint)                 | Responsible for minting the meme token BEER. Assigns one BEER per block to the validator of that block.        | Active            |
 | [epoch](./epoch)                 | Manages time-bound activities and events crucial for applications like gaming.                                 | Under Development |
 | [oracle](./oracle)               | Module for integrating external data feeds and oracles.                                                        | Under Development |
 | [dex](./dex)                     | Decentralized exchange for trading assets and cryptocurrencies on Mchain.                                      | Under Development |

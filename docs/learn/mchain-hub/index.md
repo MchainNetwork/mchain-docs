@@ -20,9 +20,6 @@ MNS is a decentralized protocol that simplifies human interactions with the Mcha
 ### Proof of Existence
 The Proof of Existence module on Mchain allows users to register and verify the existence of any digital file using blockchain technology. It provides a secure and immutable proof of existence for documents, images, and other digital assets.
 
-### BEER Token
-The BEER token is Mchain's unique meme token, minted with every block created. It's a reward for block validators and their delegators. While not focused on having real-world value, BEER tokens may be used in games and other engaging activities on Mchain in the future.
-
 ### Governance
 Mchain Hub's governance feature allows users to participate in the decision-making process of the Mchain ecosystem. Users can submit proposals, vote on various initiatives, and engage in the governance to shape the future of Mchain.
 
