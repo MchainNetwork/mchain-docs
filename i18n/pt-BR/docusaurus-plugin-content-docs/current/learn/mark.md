@@ -17,12 +17,12 @@ MARK, que significa "Monetary Asset Reward Key" (Chave de Recompensa de Ativo Mo
 
 Atualmente, o token MARK não está disponível para compra direta, pois a mainnet do MARK ainda não foi lançada. No entanto, quando estiver disponível, você poderá adquiri-lo em plataformas como Osmosis e outras exchanges centralizadas.
 
-### Opção Atual: Token MAR ERC20
+### Opção Atual: Comprar Token MARK Arbitrum
 
-Se você está interessado em se juntar ao ecossistema MARK agora, tem a opção de comprar o token MAR ERC20 na rede Ethereum através do Uniswap.
+Se você está interessado em se juntar ao ecossistema MARK agora, tem a opção de comprar o token MARK na rede Arbitrum através do Uniswap.
 
-- **Compre MAR ERC20 no Uniswap:** [Clique aqui para comprar](/docs/learn/mar-erc20/uniswap/trade-mar).
-- **Saiba mais sobre MAR ERC20:** [Informações sobre MAR ERC20](/docs/learn/mar-erc20/what-is-mar-erc20).
+- **Compre MARK no Uniswap:** [Clique aqui para comprar](/docs/learn/mar-erc20/uniswap/trade-mar).
+- **Saiba mais sobre MARK Arbitrum:** [Informações sobre MARK Arbitrum](/docs/learn/mar-erc20/what-is-mar-erc20).
 
 ### Desenvolvimentos Futuros
 O desenvolvimento contínuo do ecossistema do Mchain, incluindo atualizações e novas características, aprimorará ainda mais a utilidade e o valor do MARK. À medida que a rede cresce e evolui, MARK continuará sendo central em suas operações, governança e expansão.
