@@ -5,7 +5,7 @@ title: Burn
 
 # Burn Module
 
-The Burn module in Mchain enables the burning of specific tokens, including MARK, BEER, and any Smart Token with the burning feature activated.
+The Burn module in Mchain enables the burning of specific tokens, including MARK and any Smart Token with the burning feature activated.
 
 ## Burn Command
 

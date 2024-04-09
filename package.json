@@ -6,7 +6,7 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start --host 0.0.0.0 --port 3000 --locale en",
     "start:es": "docusaurus start --host 0.0.0.0 --port 3000 --locale es",
-    "start:br": "docusaurus start --host 0.0.0.0 --port 3000 --locale br",
+    "start:br": "docusaurus start --host 0.0.0.0 --port 3000 --locale pt-BR",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",

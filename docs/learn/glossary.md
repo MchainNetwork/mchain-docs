@@ -10,9 +10,6 @@ Explore essential terms related to the Mchain Blockchain.
 ## Airdrops
 Free distribution of a cryptocurrency token or coin to a large number of wallet addresses.
 
-## BEER
-The native meme token of the Mchain platform.
-
 ## Blockchain
 A digital ledger of transactions, duplicated across a network of computers.
 
@@ -79,8 +76,8 @@ Inter-Blockchain Communication, a protocol that enables different blockchain net
 ## Mainnet
 The primary public blockchain network of a platform.
 
-## MAR ERC20
-The ERC20 version of the MAR token on the Ethereum blockchain.
+## MARK Arbitrum
+The ERC20 version of the MARK token on the Arbitrum One blockchain.
 
 ## MARK
 The native cryptocurrency token of the Mchain platform.

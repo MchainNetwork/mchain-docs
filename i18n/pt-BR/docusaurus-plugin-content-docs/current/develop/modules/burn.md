@@ -5,7 +5,7 @@ title: Burn
 
 # Módulo Burn
 
-O módulo Burn no Mchain permite a queima de tokens específicos, incluindo MARK, BEER e qualquer Smart Token com a função de queima ativada.
+O módulo Burn no Mchain permite a queima de tokens específicos, incluindo MARK e qualquer Smart Token com a função de queima ativada.
 
 ## Comando de Queima
 

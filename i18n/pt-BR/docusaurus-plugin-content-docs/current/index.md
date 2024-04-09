@@ -12,6 +12,3 @@ Acesse os recursos para desenvolvedores clicando [neste link para a seção Dese
 
 ### Nó e Validadores
 Encontre informações sobre nós e validadores clicando [neste link para a seção de Nó e Validadores](/docs/validate).
-
-### Diário de Bordo
-Visite nosso Blog de Documentos do Mchain clicando [neste link para o Diário de Bordo](/logbook).

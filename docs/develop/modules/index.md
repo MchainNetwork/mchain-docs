@@ -13,7 +13,7 @@ Mchain modules are crucial for the functionality and operations of the Mchain bl
 |----------------------------------|----------------------------------------------------------------------------------------------------------------|-------------------|
 | [smarttoken](./smarttoken)       | Allows the creation of programmable Smart Tokens on Mchain.                                                    | Active            |
 | [mns](./mns)                     | Mchain Name Service - Manages domain names on the Mchain blockchain and domain marketplace.                    | Active            |
-| [burn](./burn)                   | Allows the burning of specific tokens, including MARK, BEER, and any Smart Token.                              | Active            |
+| [burn](./burn)                   | Allows the burning of specific tokens, including MARK and any Smart Token.                              | Active            |
 | [proofofexistence](./proofofexistence) | For registering and verifying the existence of any data or document.                                     | Active            |
 | [epoch](./epoch)                 | Manages time-bound activities and events crucial for applications like gaming.                                 | Under Development |
 | [oracle](./oracle)               | Module for integrating external data feeds and oracles.                                                        | Under Development |

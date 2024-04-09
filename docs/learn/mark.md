@@ -17,12 +17,12 @@ MARK, standing for Monetary Asset Reward Key, is the primary cryptocurrency and 
 
 Currently, the MARK token is not available for direct purchase, as the MARK mainnet has not yet been launched. However, once it becomes available, you will be able to acquire it on platforms like Osmosis and other centralized exchanges.
 
-### Current Option: Buy MAR Token on Arbitrum network
+### Current Option: Buy MARK Token on Arbitrum network
 
 If you're interested in joining the MARK ecosystem now, you have the option to buy the MARK token on the Arbitrum network through Uniswap.
 
-- **Buy MARK on Uniswap:** [Click here to purchase](/docs/learn/mar-erc20/uniswap/trade-mar).
-- **Learn more about MARK Arbitrum:** [Information about MARK Arbitrum](/docs/learn/mar-erc20/what-is-mar-erc20).
+- **Buy MARK on Uniswap:** [Click here to purchase](/docs/learn/mark-arbitrum/uniswap/trade-mark).
+- **Learn more about MARK Arbitrum:** [Information about MARK Arbitrum](/docs/learn/mark-arbitrum/what-is-mark-arbitrum).
 
 ### Future Developments
 The continuous development of the Mchain ecosystem, including upgrades and new features, will further enhance the utility and value of MARK. As the network grows and evolves, MARK will remain central to its operations, governance, and expansion.

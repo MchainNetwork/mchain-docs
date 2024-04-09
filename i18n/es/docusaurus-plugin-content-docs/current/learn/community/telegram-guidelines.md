@@ -7,13 +7,13 @@ title: Normas de Telegram
 
 **1. Respeto y cortesía:** Todos los miembros deben tratarse mutuamente con respeto y cortesía. No se tolerarán insultos, ataques personales o discursos ofensivos hacia otros miembros del grupo.
 
-**2. Temas relacionados:** El grupo se centra en discutir e intercambiar ideas sobre MAR ERC20, MARK o Mchain. Por lo tanto, se espera que los mensajes y debates estén directamente relacionados con este tema. Evita desviarte a otros asuntos no relacionados.
+**2. Temas relacionados:** El grupo se centra en discutir e intercambiar ideas sobre MARK Arbitrum, MARK o Mchain. Por lo tanto, se espera que los mensajes y debates estén directamente relacionados con este tema. Evita desviarte a otros asuntos no relacionados.
 
 **3. Contenido apropiado:** No se permite contenido inapropiado, ofensivo, difamatorio o ilegal. Esto incluye mensajes, enlaces, imágenes o cualquier material que viole los estándares comunes de decencia y legalidad.
 
 **4. No Spam:** Están prohibidos los mensajes repetitivos, promociones no solicitadas o cualquier otra forma de spam. Para promocionar un proyecto o servicio relacionado con Mchain, consulta primero con los administradores del grupo.
 
-**5. Veracidad y precisión:** Al compartir información o noticias sobre Mchain, el token MAR ERC20 o MARK, es esencial verificar las fuentes y proporcionar detalles precisos. Evita difundir rumores infundados o información engañosa que pueda dañar a la comunidad.
+**5. Veracidad y precisión:** Al compartir información o noticias sobre Mchain, el token MARK Arbitrum o MARK, es esencial verificar las fuentes y proporcionar detalles precisos. Evita difundir rumores infundados o información engañosa que pueda dañar a la comunidad.
 
 **6. Asesoramiento financiero:** Este grupo no es un lugar para ofrecer asesoramiento financiero profesional. Abstente de confiar ciegamente en la información proporcionada por otros miembros del grupo. Si necesitas asesoramiento financiero, consulta a un profesional calificado.
 

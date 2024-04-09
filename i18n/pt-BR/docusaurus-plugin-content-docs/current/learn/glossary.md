@@ -13,9 +13,6 @@ Distribuição gratuita de um token ou criptomoeda para um grande número de end
 ## Auto-delegação
 Quando um validador aposta seus próprios tokens em sua infraestrutura.
 
-## BEER
-O token meme nativo da plataforma Mchain.
-
 ## Blockchain
 Um livro-razão digital de transações, duplicado em uma rede de computadores.
 
@@ -70,8 +67,8 @@ O ato de bloquear uma certa quantidade de criptomoeda para apoiar a segurança e
 ## Mainnet
 A rede blockchain pública principal de uma plataforma.
 
-## MAR ERC20
-A versão ERC20 do token MAR na blockchain Ethereum.
+## MARK Arbitrum
+A versão ERC20 do token MARK na blockchain Arbitrum.
 
 ## MARK
 O token de criptomoeda nativo da plataforma Mchain.

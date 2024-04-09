@@ -23,20 +23,20 @@
     "message": "Mchain Hub",
     "description": "The label for category Mchain Hub in sidebar learnSidebar"
   },
-  "sidebar.learnSidebar.category.MAR ERC20": {
-    "message": "MAR ERC20",
-    "description": "The label for category MAR ERC20 in sidebar learnSidebar"
+  "sidebar.learnSidebar.category.MARK Arbitrum": {
+    "message": "MARK Arbitrum",
+    "description": "The label for category MARK Arbitrum in sidebar learnSidebar"
   },
-  "sidebar.learnSidebar.category.MAR ERC20.link.generated-index.description": {
-    "message": "Este guia oferece uma visão abrangente do token MAR ERC20.",
-    "description": "The generated-index page description for category MAR ERC20 in sidebar learnSidebar"
+  "sidebar.learnSidebar.category.MARK Arbitrum.link.generated-index.description": {
+    "message": "Este guia oferece uma visão abrangente do token MARK Arbitrum.",
+    "description": "The generated-index page description for category MARK Arbitrum in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Using Metamask": {
     "message": "Usando Metamask",
     "description": "The label for category Using Metamask in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Using Metamask.link.generated-index.description": {
-    "message": "Esta seção oferece um guia abrangente sobre o uso eficaz do Metamask para interagir com o token MAR ERC20.",
+    "message": "Esta seção oferece um guia abrangente sobre o uso eficaz do Metamask para interagir com o token MARK Arbitrum.",
     "description": "The generated-index page description for category Using Metamask in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Using Uniswap": {
@@ -44,7 +44,7 @@
     "description": "The label for category Using Uniswap in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Using Uniswap.link.generated-index.description": {
-    "message": "Esta seção oferece um guia abrangente sobre o uso eficaz do Uniswap para interagir com o token MAR ERC20.",
+    "message": "Esta seção oferece um guia abrangente sobre o uso eficaz do Uniswap para interagir com o token MARK Arbitrum.",
     "description": "The generated-index page description for category Using Uniswap in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Mchain v1 Holders (archived)": {

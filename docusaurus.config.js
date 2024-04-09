@@ -45,16 +45,6 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/MchainNetwork/mchain-docs/tree/master/',
         },
-        blog: {
-          blogTitle: 'Logbook',
-          blogDescription:
-            "The Mchain Logbook chronicles the updates, enhancements, and changes to our platform's documentation. It acts as a dynamic ledger, ensuring that both newcomers and long-time Mchain enthusiasts can track the evolution of our informational resources.",
-          showReadingTime: false,
-          routeBasePath: 'logbook',
-          path: 'logbook',
-          editUrl: 'https://github.com/MchainNetwork/mchain-docs/tree/master/',
-        },
-
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -92,7 +82,6 @@ const config = {
             position: 'left',
             sidebarId: 'validateSidebar',
           },
-          { to: '/logbook', label: 'Logbook', position: 'left' },
           {
             href: 'https://testnet.hub.mchain.network',
             label: 'Mchain Hub',
@@ -123,10 +112,6 @@ const config = {
               {
                 label: 'Documentation',
                 to: '/docs/learn/',
-              },
-              {
-                label: 'Logbook',
-                to: '/logbook',
               },
             ],
           },

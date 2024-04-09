@@ -25,7 +25,6 @@ Como validador en Mchain, eres elegible para varios tipos de recompensas:
 
 - **Tokens MARK**: Ganar recompensas en MARK por apostar y por las apuestas de tus delegados.
 - **MNS y Smart Tokens**: Obtener recompensas por registros de nombres en el Servicio de Nombres Mchain (MNS) y por emitir Smart Tokens en la blockchain.
-- **Token BEER**: Recibir 1 token BEER por bloque validado, un token meme único en Mchain, compartido con tus delegados.
 
 ## Comisiones y penalizaciones
 

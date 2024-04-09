@@ -21,8 +21,8 @@ Atualmente, o token MARK não está disponível para compra direta, pois a mainn
 
 Se você está interessado em se juntar ao ecossistema MARK agora, tem a opção de comprar o token MARK na rede Arbitrum através do Uniswap.
 
-- **Compre MARK no Uniswap:** [Clique aqui para comprar](/docs/learn/mar-erc20/uniswap/trade-mar).
-- **Saiba mais sobre MARK Arbitrum:** [Informações sobre MARK Arbitrum](/docs/learn/mar-erc20/what-is-mar-erc20).
+- **Compre MARK no Uniswap:** [Clique aqui para comprar](/docs/learn/mark-arbitrum/uniswap/trade-mark).
+- **Saiba mais sobre MARK Arbitrum:** [Informações sobre MARK Arbitrum](/docs/learn/mark-arbitrum/what-is-mark-arbitrum).
 
 ### Desenvolvimentos Futuros
 O desenvolvimento contínuo do ecossistema do Mchain, incluindo atualizações e novas características, aprimorará ainda mais a utilidade e o valor do MARK. À medida que a rede cresce e evolui, MARK continuará sendo central em suas operações, governança e expansão.

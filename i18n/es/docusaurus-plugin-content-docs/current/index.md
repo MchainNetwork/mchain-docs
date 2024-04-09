@@ -12,6 +12,3 @@ Accede a los recursos para desarrolladores haciendo clic en [este enlace a la se
 
 ### Nodo y Validadores
 Encuentra información sobre nodos y validadores haciendo clic en [este enlace a la sección de Nodo y Validadores](/es/docs/validate).
-
-### Bitácora
-Visita nuestro Blog de Documentos de Mchain haciendo clic en [este enlace a la Bitácora](/es/logbook).
