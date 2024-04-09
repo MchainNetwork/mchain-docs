@@ -12,7 +12,7 @@ O Uniswap V3 oferece maior eficiência e flexibilidade em comparação com seus 
 
 ## Pré-requisitos
 Antes de adicionar liquidez, certifique-se de ter:
-1. **Uma Carteira Digital**: Configure uma carteira compatível com Ethereum, como o MetaMask.
+1. **Uma Carteira Digital**: Configure uma carteira compatível com Ethereum, como o Metamask.
 2. **Holdings em MAR e ETH**: Você precisa de ambos os tokens em sua carteira, em uma proporção baseada no preço atual do pool.
 3. **ETH Suficiente para Taxas de Transação**: As taxas de gás podem flutuar, então tenha ETH adicional disponível.
 

@@ -14,7 +14,7 @@ Uniswap is a decentralized exchange (DEX) in the Ethereum ecosystem. It uses an 
 #### Preparation
 Before you begin trading MAR ERC20 on Uniswap, you need:
 
-1. **Digital Wallet**: Create and set up an Ethereum-compatible wallet, like MetaMask or Trust Wallet.
+1. **Digital Wallet**: Create and set up an Ethereum-compatible wallet, like Metamask or Trust Wallet.
 2. **Ethereum (ETH)**: Ensure you have sufficient ETH in your wallet to cover transaction fees (gas).
 3. **Copy MAR ERC20 contract address**: Copy the correct [MAR ERC20 contract address](/docs/learn/mar-erc20/specifications) to your clipboard.
 

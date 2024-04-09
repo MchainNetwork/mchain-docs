@@ -12,7 +12,7 @@ Uniswap V3 offers greater efficiency and flexibility compared to its predecessor
 
 ## Prerequisites
 Before adding liquidity, ensure you have:
-1. **A Digital Wallet**: Set up a wallet compatible with Ethereum, like MetaMask.
+1. **A Digital Wallet**: Set up a wallet compatible with Ethereum, like Metamask.
 2. **Holdings in MAR and ETH**: You need both tokens in your wallet, in a ratio based on the current pool price.
 3. **Enough ETH for Transaction Fees**: Gas fees can fluctuate, so have extra ETH available.
 
