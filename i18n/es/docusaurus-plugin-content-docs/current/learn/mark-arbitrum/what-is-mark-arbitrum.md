@@ -15,4 +15,4 @@ Los usuarios pueden utilizar un puente para transferir sus tokens al Mainnet de 
 
 ## MAR ERC20 a MARK Arbitrum
 
-Si posees monedas MAR ERC20 en Ethereum, puedes convertirlas automáticamente a MARK Arbitrum. Para hacerlo, envía las monedas que deseas convertir desde tu billetera a la dirección `0x000000000000000000000000000000000000dEaD`. Recibirás automáticamente las monedas MARK en la red Arbitrum One en la misma dirección de tu billetera. Si no has recibido las monedas después de varios minutos, por favor ponte en contacto con nosotros en Telegram en @MchainInfo.
+Si posees monedas MAR ERC20 en Ethereum, puedes convertirlas automáticamente a MARK Arbitrum. Para hacerlo, envía las monedas que deseas convertir desde tu billetera a la dirección `0x000000000000000000000000000000000000dEaD`. Recibirás automáticamente las monedas MARK en la red Arbitrum One en la misma dirección de tu billetera. Si no has recibido las monedas después de varios minutos, por favor ponte en contacto con nosotros en Telegram en [@MchainInfo](https://t.me/MchainInfo).
