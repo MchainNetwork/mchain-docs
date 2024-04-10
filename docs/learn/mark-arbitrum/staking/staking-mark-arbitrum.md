@@ -7,7 +7,7 @@ title: Staking MARK on Arbitrum
 
 ## What is MARK Staking on Arbitrum?
 
-MARK Arbitrum staking is a new service that allows users who provide liquidity on the Arbitrum network for the MARK-ETH pair on Uniswap V3 to receive additional rewards. By supplying liquidity, you receive a unique Uniswap NFT that represents your contribution. This NFT can be used on our staking page to earn MARK Arbitrum rewards directly from our pool of 17,207,056 MARK allocated for this purpose.
+MARK Arbitrum staking allows users who provide liquidity on the Arbitrum network for the MARK-ETH pair on Uniswap V3 to receive additional rewards. By supplying liquidity, you receive a unique Uniswap NFT that represents your contribution. This NFT can be used on our staking page to earn MARK Arbitrum rewards directly from our pool of 17,207,056 MARK allocated for this purpose.
 
 ## Double Benefits: Staking and Trading Commissions
 
