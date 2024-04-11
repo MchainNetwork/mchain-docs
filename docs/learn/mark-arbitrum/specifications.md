@@ -16,5 +16,5 @@ The MARK token has a precision of **18 decimals**.
 ## Contract Address
 
 The address of the deployed contract is 
-[`0x`](https://arbiscan.io/address/0x).
+[`0x4D01397994aA636bDCC65c9e8024bC497498c3bb`](https://arbiscan.io/address/0x4D01397994aA636bDCC65c9e8024bC497498c3bb).
 
