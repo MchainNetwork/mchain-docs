@@ -12,7 +12,3 @@ Throughout the migration from Mchain v1 to Mchain v2, a key component of the pro
 ## From Arbitrum to Mchain v2
 
 Users can utilize a bridge to transfer their tokens to the Mchain v2 Mainnet. Alternatively, they may continue using them on the Arbitrum, whichever they prefer.
-
-## MAR ERC20 to MARK Arbitrum
-
-If you hold MAR ERC20 coins on Ethereum, you can automatically convert them to MARK Arbitrum. To do this, send the coins you wish to convert from your wallet to the address 0x000000000000000000000000000000000000dEaD. You will automatically receive the MARK coins on the Arbitrum One network at the same wallet address. If you have not received the coins for several minutes, please get in touch with us on Telegram at [@MchainInfo](https://t.me/MchainInfo).
