@@ -15,12 +15,12 @@ Uniswap is a decentralized exchange (DEX) in the Ethereum ecosystem. It uses an 
 Before you begin trading MARK Arbitrum on Uniswap, you need:
 
 1. **Digital Wallet**: Create and set up an Ethereum-compatible wallet, like Metamask or Trust Wallet.
-2. **Ethereum (ETH)**: Ensure you have sufficient ETH on Arbitrum network in your wallet to cover transaction fees (gas).
+2. **Ethereum (ETH)**: Ensure you have sufficient ETH on Arbitrum One network in your wallet to cover transaction fees (gas).
 3. **Copy MARK Arbitrum contract address**: Copy the correct [MARK Arbitrum contract address](/docs/learn/mark-arbitrum/specifications) to your clipboard.
 
 #### Step-by-Step Trading Guide
 1. **Access Uniswap**:
-   - Visit [Uniswap](https://app.uniswap.org) and connect your digital wallet.
+   - Visit [Uniswap](https://app.uniswap.org/swap?outputCurrency=0x4D01397994aA636bDCC65c9e8024bC497498c3bb&inputCurrency=ETH&chain=arbitrum) and connect your digital wallet.
 2. **Select MARK**: 
    - Once connected, in the "Swap" section, select ETH as your source token and search for MARK in the token list for the destination. If MARK is not listed, you can manually add it using its ERC20 contract address.
 3. **Making the Swap**:
