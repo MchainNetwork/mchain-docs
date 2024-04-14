@@ -16,7 +16,7 @@ El token MARK Arbitrum tiene una precisión de **18 decimales**.
 ## Dirección del contrato
 
 La dirección del contrato desplegado es 
-[`0x4D01397994aA636bDCC65c9e8024bC497498c3bb`](https://etherscan.io/address/0x4D01397994aA636bDCC65c9e8024bC497498c3bb).
+[`0x4D01397994aA636bDCC65c9e8024bC497498c3bb`](https://arbiscan.io/address/0x4D01397994aA636bDCC65c9e8024bC497498c3bb).
 
 ### Tokenomics
 
