@@ -3,7 +3,7 @@ const path = require('path');
 
 const directoryPath = './docs';
 const outputDirectory = './docs-combined';
-const maxFiles = 20;
+const maxFiles = 11;
 
 function getAllMDFiles(dirPath, arrayOfFiles) {
   const files = fs.readdirSync(dirPath);
