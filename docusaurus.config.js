@@ -33,7 +33,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'es', 'pt-BR'],
   },
 
   presets: [
@@ -43,15 +43,6 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/MchainNetwork/mchain-docs/tree/master/',
-        },
-        blog: {
-          blogTitle: 'Logbook',
-          blogDescription:
-            "The Mchain Logbook chronicles the updates, enhancements, and changes to our platform's documentation. It acts as a dynamic ledger, ensuring that both newcomers and long-time Mchain enthusiasts can track the evolution of our informational resources.",
-          showReadingTime: false,
-          routeBasePath: 'logbook',
-          path: 'logbook',
           editUrl: 'https://github.com/MchainNetwork/mchain-docs/tree/master/',
         },
         theme: {
@@ -74,20 +65,40 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
+            to: '/docs/learn',
             label: 'Learn',
+            position: 'left',
+            sidebarId: 'learnSidebar',
           },
-          { to: '/logbook', label: 'Logbook', position: 'left' },
           {
-            href: 'https://www.mchain.network',
-            label: 'Mchain',
+            to: '/docs/develop',
+            label: 'Develop',
+            position: 'left',
+            sidebarId: 'developSidebar',
+          },
+          {
+            to: '/docs/validate',
+            label: 'Node & Validators',
+            position: 'left',
+            sidebarId: 'validateSidebar',
+          },
+          {
+            href: 'https://testnet.hub.mchain.network',
+            label: 'Mchain Hub',
+            position: 'right',
+          },
+          {
+            href: 'https://testnet.api.mchain.network/',
+            label: 'API',
             position: 'right',
           },
           {
             href: 'https://github.com/MchainNetwork',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
         ],
@@ -100,11 +111,11 @@ const config = {
             items: [
               {
                 label: 'Documentation',
-                to: '/docs/intro',
+                to: '/docs/learn/',
               },
               {
-                label: 'Logbook',
-                to: '/logbook',
+                label: 'Website',
+                to: 'https://mchain.network',
               },
             ],
           },

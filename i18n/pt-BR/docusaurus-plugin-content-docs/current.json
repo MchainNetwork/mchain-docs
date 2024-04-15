@@ -1,0 +1,78 @@
+{
+  "version.label": {
+    "message": "Próxima",
+    "description": "The label for version current"
+  },
+  "sidebar.learnSidebar.category.Smart Tokens": {
+    "message": "Smart Tokens",
+    "description": "The label for category Smart Tokens in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Smart Tokens.link.generated-index.description": {
+    "message": "Esta seção explora Smart Tokens dentro do ecossistema Mchain, um paralelo a como CBDCs transformam moedas tradicionais. Estes Smart Tokens revolucionam a utilidade e a flexibilidade de ativos digitais, liderando o movimento de pontos programáveis com suas funcionalidades diversas e personalizáveis.",
+    "description": "The generated-index page description for category Smart Tokens in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Name Service (MNS)": {
+    "message": "Name Service (MNS)",
+    "description": "The label for category Name Service (MNS) in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Name Service (MNS).link.generated-index.description": {
+    "message": "Explore os fundamentos do Mchain Name Service (MNS), desde conceitos básicos até funcionalidades avançadas, neste guia abrangente.",
+    "description": "The generated-index page description for category Name Service (MNS) in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Mchain Hub": {
+    "message": "Mchain Hub",
+    "description": "The label for category Mchain Hub in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.MARK Arbitrum": {
+    "message": "MARK Arbitrum",
+    "description": "The label for category MARK Arbitrum in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.MARK Arbitrum.link.generated-index.description": {
+    "message": "Este guia oferece uma visão abrangente do token MARK Arbitrum.",
+    "description": "The generated-index page description for category MARK Arbitrum in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Using Metamask": {
+    "message": "Usando Metamask",
+    "description": "The label for category Using Metamask in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Using Metamask.link.generated-index.description": {
+    "message": "Esta seção oferece um guia abrangente sobre o uso eficaz do Metamask para interagir com o token MARK Arbitrum.",
+    "description": "The generated-index page description for category Using Metamask in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Using Uniswap": {
+    "message": "Usando Uniswap",
+    "description": "The label for category Using Uniswap in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Using Uniswap.link.generated-index.description": {
+    "message": "Esta seção oferece um guia abrangente sobre o uso eficaz do Uniswap para interagir com o token MARK Arbitrum.",
+    "description": "The generated-index page description for category Using Uniswap in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Mchain v1 Holders (archived)": {
+    "message": "Detentores do Mchain v1 (arquivado)",
+    "description": "The label for category Mchain v1 Holders (archived) in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Mchain v1 Holders (archived).link.generated-index.description": {
+    "message": "Esta seção oferece um guia detalhado sobre a migração do Mchain v1 para o Mchain v2. Conforme o processo se desenrola, continuaremos atualizando e incorporando informações essenciais para garantir uma transição tranquila para nossos usuários.",
+    "description": "The generated-index page description for category Mchain v1 Holders (archived) in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Community": {
+    "message": "Comunidade",
+    "description": "The label for category Community in sidebar learnSidebar"
+  },
+  "sidebar.developSidebar.category.Chain Modules": {
+    "message": "Módulos da Cadeia",
+    "description": "The label for category Chain Modules in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Developer Tools": {
+    "message": "Ferramentas para Desenvolvedores",
+    "description": "The label for category Developer Tools in sidebar developSidebar"
+  },
+  "sidebar.learnSidebar.category.Staking MARK Arbitrum": {
+    "message": "Staking MARK Arbitrum",
+    "description": "The label for category Staking MARK Arbitrum in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Staking MARK Arbitrum.link.generated-index.description": {
+    "message": "Explore como participar no processo de staking para o token MARK na rede Arbitrum. Esta seção oferece instruções detalhadas sobre como fornecer liquidez através do Uniswap V3 e ganhar recompensas por meio de staking.",
+    "description": "The generated-index page description for category Staking MARK Arbitrum in sidebar learnSidebar"
+  }
+}

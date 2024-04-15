@@ -152,3 +152,10 @@ body.dark, body[data-theme=dark] {
 .aa-Autocomplete {
   width: 140px;
 }
+
+.menu__list-item:not(:first-child) {
+    margin-top: 0.4rem;
+}
+
+
+
