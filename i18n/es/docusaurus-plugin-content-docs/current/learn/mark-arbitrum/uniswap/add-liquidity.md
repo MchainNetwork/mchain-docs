@@ -17,11 +17,11 @@ Antes de añadir liquidez, asegúrate de tener:
 1. **Cambia tu red en Metamask a Arbitrum One**
    - Si no has configurado previamente la red, puedes seguir esta [guía](../metamask/add-arbitrum-to-metamask.md)
 2. **Conéctate a Uniswap V3**: 
-   - Visita la Interfaz de Uniswap en [Uniswap V3](https://app.uniswap.org/add/ETH/0x4D01397994aA636bDCC65c9e8024bC497498c3bb?chain=arbitrum) y conecta tu billetera.
+   - Visita la Interfaz de Uniswap en [Uniswap V3](https://app.uniswap.org/add/ETH/0x4D01397994aA636bDCC65c9e8024bC497498c3bb/3000?chain=arbitrum) y conecta tu billetera.
 3. **Selecciona el par**:
    - Elige ETH y MARK de la lista de tokens. Si MARK no está listado, agrégalo manualmente usando su [dirección de contrato](../specifications.md).
 4. **Selecciona el nivel de tarifa**:
-   - Elige entre los niveles de tarifa disponibles. Te aconsejamos seleccionar la tarifa del 0.3%.
+   - Elige entre los niveles de tarifa disponibles. Te aconsejamos seleccionar la tarifa del 0.3% para participar en el Staking de MARK Arbitrum.
 5. **Establece el rango de precios**:
    - En Uniswap V3, necesitas establecer un rango de precios para tu liquidez. Tu liquidez solo generará tarifas cuando el precio del par de tokens esté dentro de este rango. Puedes hacer clic en el botón de Rango Completo para estar disponible para todo el rango.
 6. **Determina la cantidad de tu liquidez**:

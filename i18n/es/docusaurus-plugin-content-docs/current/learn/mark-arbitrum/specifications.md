@@ -18,7 +18,7 @@ El token MARK Arbitrum tiene una precisión de **18 decimales**.
 La dirección del contrato desplegado es 
 [`0x4D01397994aA636bDCC65c9e8024bC497498c3bb`](https://arbiscan.io/address/0x4D01397994aA636bDCC65c9e8024bC497498c3bb).
 
-### Tokenomics
+## Distribución inicial
 
 El 1 de octubre de 2023, se realizó la distribución de los tokens Mchain V1 en formato ERC20, del total de 110,000,000 tokens disponibles. Esta distribución se llevó a cabo para todos los titulares que reclamaron sus tokens según los procesos establecidos.
 

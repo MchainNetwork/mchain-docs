@@ -17,11 +17,11 @@ Before adding liquidity, ensure you have:
 1. **Change your network in Metamask to Arbitrum One**
    - If you haven't previously configured the network, you can follow this [guide](../metamask/add-arbitrum-to-metamask.md)
 2. **Connect to Uniswap V3**: 
-   - Visit the Uniswap Interface at [Uniswap V3](https://app.uniswap.org/add/ETH/0x4D01397994aA636bDCC65c9e8024bC497498c3bb?chain=arbitrum) and connect your wallet.
+   - Visit the Uniswap Interface at [Uniswap V3](https://app.uniswap.org/add/ETH/0x4D01397994aA636bDCC65c9e8024bC497498c3bb/3000?chain=arbitrum) and connect your wallet.
 3. **Select pair**:
    - Choose ETH and MARK from the token list. If MARK isn't listed, add it manually using its [contract address](../specifications.md).
 4. **Select fee tier**:
-   - Choose from the available fee tiers. We advise you to select the 0.3% fee.
+   - Choose from the available fee tiers. We advise you to select the 0.3% fee to participate in MARK Arbitrum Staking.
 5. **Set price range**:
    - In Uniswap V3, you need to set a price range for your liquidity. Your liquidity will only earn fees when the price of the token pair is within this range. You can click the Full Range button to be available for the entire range.
 6. **Determine your liquidity amount**:

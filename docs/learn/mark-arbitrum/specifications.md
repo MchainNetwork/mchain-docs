@@ -18,7 +18,7 @@ The MARK token has a precision of **18 decimals**.
 The address of the deployed contract is 
 [`0x4D01397994aA636bDCC65c9e8024bC497498c3bb`](https://arbiscan.io/address/0x4D01397994aA636bDCC65c9e8024bC497498c3bb).
 
-# Tokenomics
+## Initial Distribution
 
 On October 1, 2023, the distribution of Mchain V1 tokens in ERC20 format was carried out from the total of 110,000,000 available tokens. This distribution was made to all holders who claimed their tokens according to established processes.
 
