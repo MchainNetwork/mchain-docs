@@ -20,7 +20,7 @@ Antes de comenzar a comerciar MARK Arbitrum en Uniswap, necesitas:
 
 #### Guía de trading paso a paso
 1. **Acceder a Uniswap**:
-   - Visita [Uniswap](https://app.uniswap.org/swap?outputCurrency=0x4D01397994aA636bDCC65c9e8024bC497498c3bb&inputCurrency=ETH&chain=arbitrum) y conecta tu cartera digital.
+   - Visita [Uniswap](https://app.uniswap.org/explore/tokens/arbitrum/0x4D01397994aA636bDCC65c9e8024bC497498c3bb?inputCurrency=ETH&chain=arbitrum) y conecta tu cartera digital.
 2. **Seleccionar MARK**: 
    - Una vez conectado, en la sección "Swap", selecciona ETH como tu token de origen y busca MARK en la lista de tokens para el destino. Si MARK no está en la lista, puedes añadirlo manualmente usando su dirección del contrato ERC20.
 3. **Realizar el intercambio**:
