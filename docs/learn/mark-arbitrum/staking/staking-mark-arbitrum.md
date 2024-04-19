@@ -17,6 +17,10 @@ Participating in staking and providing liquidity offers double benefits. You wil
 
 For a detailed step-by-step guide, check [How to Stake Your Liquidity](./how-stake.md).
 
+## Incentives and Rewards
+
+Discover the specific incentives and rewards available for staking in Uniswap V3 for MARK Arbitrum. Learn about the [monthly distributions](incentives.md) and how they can maximize your returns.
+
 ## Additional Tips
 
 - **Monitoring**: Keep track of your rewards and consider adjusting your strategy based on performance.
