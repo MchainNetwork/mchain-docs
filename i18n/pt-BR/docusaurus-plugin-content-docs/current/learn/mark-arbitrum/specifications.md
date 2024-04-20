@@ -7,12 +7,6 @@ title: Especificações
 
 O token MARK funcionará como um token ERC20 durante sua fase inicial na blockchain do Arbitrum One.
 
-## Fornecimento Total e Decimais do Token
-
-A quantidade total de tokens MARK Arbitrum criados é de **110,000,000**.
-
-O token MARK Arbitrum tem uma precisão de **18 decimais**.
-
 ## Endereço do Contrato
 
 O endereço do contrato implantado é:
@@ -23,6 +17,11 @@ O endereço do contrato implantado é:
 
 Visualizar em [`Arbiscan.io`](https://arbiscan.io/token/0x4D01397994aA636bDCC65c9e8024bC497498c3bb)
 
+## Fornecimento Total e Decimais do Token
+
+A quantidade total de tokens MARK Arbitrum criados é de **110,000,000**.
+
+O token MARK Arbitrum tem uma precisão de **18 decimais**.
 
 ## Distribuição Inicial
 
