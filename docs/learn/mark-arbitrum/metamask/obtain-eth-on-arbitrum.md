@@ -3,11 +3,11 @@ sidebar_position: 3
 title: Obtain ETH on Arbitrum
 ---
 
-## How to Obtain ETH on Arbitrum One
+# How to Obtain ETH on Arbitrum One
 
 In the Arbitrum One network, Ethereum (ETH) is essential for transaction fees, trading on Uniswap, adding liquidity, or staking MARK Arbitrum. To facilitate your participation, we outline two straightforward methods to obtain ETH on Arbitrum: through a centralized exchange or using the Arbitrum Bridge from the Ethereum mainnet. This guide will help you get started quickly and efficiently.
 
-### Option 1: Using a Centralized Exchange
+## Option 1: Using a Centralized Exchange
 
 1. **Purchase ETH on an Exchange**:
    - Begin by purchasing Ethereum (ETH) on a centralized exchange of your choice, such as Binance, Coinbase, or Kraken.
@@ -24,7 +24,7 @@ In the Arbitrum One network, Ethereum (ETH) is essential for transaction fees, t
 4. **Add Arbitrum Network to Your Wallet**:
    - To view your balance on Arbitrum One, make sure the [Arbitrum network is added](add-arbitrum-to-metamask.md) to your MetaMask or similar wallet. This setting is usually found under "Networks" in your wallet.
 
-### Option 2: Using the Arbitrum Bridge
+## Option 2: Using the Arbitrum Bridge
 
 1. **Access the Arbitrum Bridge**:
    - Visit the [Arbitrum Bridge](https://bridge.arbitrum.io/?destinationChain=arbitrum-one&sourceChain=ethereum) to start the process of transferring ETH from Ethereum to Arbitrum One.
@@ -48,7 +48,7 @@ In the Arbitrum One network, Ethereum (ETH) is essential for transaction fees, t
 7. **Add Arbitrum Network to Your Wallet**:
    - To view your balance on Arbitrum One, make sure the [Arbitrum network is added](add-arbitrum-to-metamask.md) to your MetaMask or similar wallet. This setting is usually found under "Networks" in your wallet.
 
-### Final Steps
+## Final Steps
 
 - **Verify Your Balance**: Once the transfer is complete, verify your ETH balance on the Arbitrum network through your wallet.
 - **Manage Your ETH**: You can now use your ETH on Arbitrum One for transactions, providing liquidity, or other supported activities.

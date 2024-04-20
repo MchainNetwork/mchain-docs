@@ -3,11 +3,11 @@ sidebar_position: 3
 title: Obter ETH em Arbitrum
 ---
 
-## Como Obter ETH em Arbitrum One
+# Como Obter ETH em Arbitrum One
 
 Na rede Arbitrum One, o Ethereum (ETH) é essencial para taxas de transação, negociação no Uniswap, adição de liquidez ou staking de MARK Arbitrum. Para facilitar sua participação, detalhamos dois métodos simples para obter ETH em Arbitrum: através de uma exchange centralizada ou usando a ponte de Arbitrum da rede principal Ethereum. Este guia ajudará você a começar de maneira rápida e eficiente.
 
-### Opção 1: Usando uma Exchange Centralizada
+## Opção 1: Usando uma Exchange Centralizada
 
 1. **Compre ETH em uma Exchange**:
    - Comece comprando Ethereum (ETH) em uma exchange centralizada de sua escolha, como Binance, Coinbase ou Kraken.
@@ -24,7 +24,7 @@ Na rede Arbitrum One, o Ethereum (ETH) é essencial para taxas de transação, n
 4. **Adicione a Rede Arbitrum à sua Carteira**:
    - Para visualizar seu saldo em Arbitrum One, certifique-se de que a rede [Arbitrum esteja adicionada](add-arbitrum-to-metamask.md) à sua MetaMask ou carteira similar. Essa configuração geralmente é encontrada em "Redes" na sua carteira.
 
-### Opção 2: Usando a Ponte de Arbitrum
+## Opção 2: Usando a Ponte de Arbitrum
 
 1. **Acesse a Ponte de Arbitrum**:
    - Visite a [Arbitrum Bridge](https://bridge.arbitrum.io/?destinationChain=arbitrum-one&sourceChain=ethereum) para iniciar o processo de transferência de ETH do Ethereum para Arbitrum One.
@@ -48,7 +48,7 @@ Na rede Arbitrum One, o Ethereum (ETH) é essencial para taxas de transação, n
 7. **Adicione a Rede Arbitrum à sua Carteira**:
    - Para visualizar seu saldo em Arbitrum One, certifique-se de que a rede Arbitrum esteja adicionada à sua MetaMask ou carteira similar. Essa configuração geralmente é encontrada em "Redes" na sua carteira.
 
-### Passos Finais
+## Passos Finais
 
 - **Verifique seu Saldo**: Uma vez que a transferência esteja completa, verifique seu saldo de ETH na rede Arbitrum através da sua carteira.
 - **Gerencie seu ETH**: Agora você pode usar seu ETH em Arbitrum One para transações, prover liquidez ou outras atividades suportadas.

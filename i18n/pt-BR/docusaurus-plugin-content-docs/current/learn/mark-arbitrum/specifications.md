@@ -15,8 +15,14 @@ O token MARK Arbitrum tem uma precisão de **18 decimais**.
 
 ## Endereço do Contrato
 
-O endereço do contrato implantado é 
-[`0x4D01397994aA636bDCC65c9e8024bC497498c3bb`](https://arbiscan.io/address/0x4D01397994aA636bDCC65c9e8024bC497498c3bb).
+O endereço do contrato implantado é:
+
+```
+0x4D01397994aA636bDCC65c9e8024bC497498c3bb
+```
+
+Visualizar em [`Arbiscan.io`](https://arbiscan.io/token/0x4D01397994aA636bDCC65c9e8024bC497498c3bb)
+
 
 ## Distribuição Inicial
 
