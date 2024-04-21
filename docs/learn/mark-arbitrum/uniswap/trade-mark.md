@@ -5,20 +5,30 @@ title: Trade MARK on Uniswap
 
 # Trade MARK Arbitrum on Uniswap
 
-### What is Uniswap?
+## What is Uniswap?
 
 Uniswap is a decentralized exchange (DEX) in the Ethereum ecosystem. It uses an automated liquidity model, meaning instead of traditional order books, users contribute funds to liquidity pools, and these pools facilitate trades between various ERC20 tokens, including MARK Arbitrum.
 
-### Trading on Uniswap
+## Contract Address
 
-#### Preparation
+The address of the deployed contract is:
+
+```
+0x4D01397994aA636bDCC65c9e8024bC497498c3bb
+```
+
+View on [`Arbiscan.io`](https://arbiscan.io/token/0x4D01397994aA636bDCC65c9e8024bC497498c3bb)
+
+## Trading on Uniswap
+
+### Preparation
 Before you begin trading MARK Arbitrum on Uniswap, you need:
 
 1. **Digital Wallet**: Create and set up an Ethereum-compatible wallet, like Metamask or Trust Wallet.
 2. **Ethereum (ETH)**: Ensure you have sufficient ETH on Arbitrum One network in your wallet to cover transaction fees (gas).
 3. **Copy MARK Arbitrum contract address**: Copy the correct [MARK Arbitrum contract address](/docs/learn/mark-arbitrum/specifications) to your clipboard.
 
-#### Step-by-Step Trading Guide
+### Step-by-Step Trading Guide
 1. **Access Uniswap**:
    - Visit [Uniswap](https://app.uniswap.org/explore/tokens/arbitrum/0x4D01397994aA636bDCC65c9e8024bC497498c3bb?inputCurrency=ETH&chain=arbitrum) and connect your digital wallet.
 2. **Select MARK**: 
@@ -32,13 +42,13 @@ Before you begin trading MARK Arbitrum on Uniswap, you need:
 5. **Receiving MARK Arbitrum**: 
    - Once the transaction is complete, the MARK tokens will be added to your wallet.
 
-#### Tips and Best Practices
+### Tips and Best Practices
 - **Slippage Tolerance**: Adjust the slippage tolerance to prevent significant price differences during the transaction.
 - **Timing of the Transaction**: Consider market volatility and network congestion when making transactions.
 - **Verification**: Always verify the MARK token address and the swap conditions before confirming.
 
-#### Risks
+### Risks
 As with any cryptocurrency trading, trading MARK involves risks, including market volatility and online security risks. Educate yourself well and never invest more than you are willing to lose.
 
-#### Additional Resources
+### Additional Resources
 For more information about Uniswap and cryptocurrency trading, visit [Uniswap Docs](https://docs.uniswap.org) and other online educational resources.
