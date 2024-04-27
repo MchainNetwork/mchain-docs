@@ -67,11 +67,11 @@
     "message": "Herramientas para desarrolladores",
     "description": "The label for category Developer Tools in sidebar developSidebar"
   },
-  "sidebar.learnSidebar.category.Staking MARK Arbitrum": {
-    "message": "Staking MARK Arbitrum",
+  "sidebar.learnSidebar.category.Staking (MARK Arbitrum)": {
+    "message": "Staking (MARK Arbitrum)",
     "description": "The label for category Staking MARK Arbitrum in sidebar learnSidebar"
   },
-  "sidebar.learnSidebar.category.Staking MARK Arbitrum.link.generated-index.description": {
+  "sidebar.learnSidebar.category.Staking (MARK Arbitrum).link.generated-index.description": {
     "message": "Explora cómo participar en el proceso de staking para el token MARK en la red Arbitrum. Esta sección ofrece instrucciones detalladas sobre cómo proporcionar liquidez a través de Uniswap V3 y ganar recompensas mediante staking.",
     "description": "The generated-index page description for category Staking MARK Arbitrum in sidebar learnSidebar"
   }
