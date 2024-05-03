@@ -7,6 +7,12 @@ title: Obtain ETH on Arbitrum
 
 In the Arbitrum One network, Ethereum (ETH) is essential for transaction fees, trading on Uniswap, adding liquidity, or staking MARK Arbitrum. To facilitate your participation, we outline two straightforward methods to obtain ETH on Arbitrum: through a centralized exchange or using the Arbitrum Bridge from the Ethereum mainnet. This guide will help you get started quickly and efficiently.
 
+**Table of Contents**
+
+1. Using a Centralized Exchange
+2. Using the Arbitrum Bridge
+3. Using a Credit Card, Bank, Google Play or Apple Pay
+
 ## Option 1: Using a Centralized Exchange
 
 1. **Purchase ETH on an Exchange**:
@@ -47,6 +53,12 @@ In the Arbitrum One network, Ethereum (ETH) is essential for transaction fees, t
 
 7. **Add Arbitrum Network to Your Wallet**:
    - To view your balance on Arbitrum One, make sure the [Arbitrum network is added](add-arbitrum-to-metamask.md) to your MetaMask or similar wallet. This setting is usually found under "Networks" in your wallet.
+
+## Option 3: Using a Credit Card, Bank, Google Play or Apple Pay
+
+Visit platforms like Onramper which allow you to directly purchase ETH on the Arbitrum network using traditional payment methods such as credit cards or bank transfers.
+
+[Buy ETH Arbitrum on Onramper.com](https://buy.onramper.com/?themeName=dark&containerColor=0f1729ff&primaryColor=39b6d4ff&secondaryColor=0f1729ff&cardColor=2c3342ff&primaryTextColor=ffffff&secondaryTextColor=ffffff&borderRadius=2&wgBorderRadius=1.19&mode=buy&defaultCrypto=eth_arbitrum&onlyCryptos=eth_arbitrum&onlyCryptoNetworks=arbitrum)
 
 ## Final Steps
 
