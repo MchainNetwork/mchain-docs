@@ -7,7 +7,7 @@ title: Obtain ETH on Arbitrum
 
 In the Arbitrum One network, Ethereum (ETH) is essential for transaction fees, trading on Uniswap, adding liquidity, or staking MARK Arbitrum. To facilitate your participation, we outline two straightforward methods to obtain ETH on Arbitrum: through a centralized exchange or using the Arbitrum Bridge from the Ethereum mainnet. This guide will help you get started quickly and efficiently.
 
-**Table of Contents**
+**Options**
 
 1. Using a Centralized Exchange
 2. Using the Arbitrum Bridge
